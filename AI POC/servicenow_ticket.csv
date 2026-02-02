@@ -1,0 +1,2001 @@
+Short description,Description,Caller,Assignment group
+Server CPU high,Production server CPU usage above threshold,Suresh Kumar,Infrastructure Team
+Account locked,User account locked after multiple failed attempts,Manish Jain,IT Service Desk
+Server reboot required,Server requires reboot after patching,Anita Rao,Infrastructure Team
+Malware detected,Endpoint security detected malware,Rohit Gupta,Security Operations
+Laptop overheating,Laptop heating up and shutting down automatically,Sneha Iyer,End User Computing
+Application crash,Business application crashes on launch,Priya Nair,Application Support
+Server reboot required,Server requires reboot after patching,Vikram Patel,Infrastructure Team
+Application crash,Business application crashes on launch,Pooja Mehta,Application Support
+Memory leak detected,Server memory continuously increasing,Pooja Mehta,Infrastructure Team
+Unauthorized access attempt,Multiple failed login attempts detected,Pooja Mehta,Security Operations
+No internet access,User system not able to access internet,Neha Singh,Network Team
+Password expired,Active Directory password expired and user locked out,Karan Malhotra,IT Service Desk
+Permission denied,User lacks permission to access module,Manish Jain,Application Support
+Server reboot required,Server requires reboot after patching,Anita Rao,Infrastructure Team
+Laptop overheating,Laptop heating up and shutting down automatically,Vikram Patel,End User Computing
+Server CPU high,Production server CPU usage above threshold,Rahul Verma,Infrastructure Team
+Account locked,User account locked after multiple failed attempts,Karan Malhotra,IT Service Desk
+Phishing email reported,User reported suspicious phishing email,Pooja Mehta,Security Operations
+MFA not working,Multi-factor authentication failing during login,Rahul Verma,IT Service Desk
+MFA not working,Multi-factor authentication failing during login,Rohit Gupta,IT Service Desk
+Firewall blocking access,Required port blocked by firewall,Rohit Gupta,Network Team
+Data not loading,Application dashboard data not loading,Rahul Verma,Application Support
+No internet access,User system not able to access internet,Rahul Verma,Network Team
+Disk space full,System disk is full causing performance issues,Karan Malhotra,End User Computing
+Password expired,Active Directory password expired and user locked out,Karan Malhotra,IT Service Desk
+Antivirus outdated,Antivirus signatures not updated,Amit Sharma,Security Operations
+Malware detected,Endpoint security detected malware,Anita Rao,Security Operations
+Password expired,Active Directory password expired and user locked out,Rohit Gupta,IT Service Desk
+Login page error,Application login page throwing error,Priya Nair,Application Support
+Unauthorized access attempt,Multiple failed login attempts detected,Manish Jain,Security Operations
+Malware detected,Endpoint security detected malware,Anita Rao,Security Operations
+Application crash,Business application crashes on launch,Rohit Gupta,Application Support
+Blue screen error,System crashes with blue screen error,Amit Sharma,End User Computing
+Malware detected,Endpoint security detected malware,Vikram Patel,Security Operations
+Application crash,Business application crashes on launch,Suresh Kumar,Application Support
+VPN disconnected,VPN drops frequently when connected remotely,Sneha Iyer,Network Team
+Malware detected,Endpoint security detected malware,Neha Singh,Security Operations
+Firewall blocking access,Required port blocked by firewall,Neha Singh,Network Team
+Phishing email reported,User reported suspicious phishing email,Neha Singh,Security Operations
+Disk space full,System disk is full causing performance issues,Suresh Kumar,End User Computing
+Email login failure,User unable to login to Outlook email account,Rahul Verma,IT Service Desk
+VPN disconnected,VPN drops frequently when connected remotely,Suresh Kumar,Network Team
+Server reboot required,Server requires reboot after patching,Sneha Iyer,Infrastructure Team
+Memory leak detected,Server memory continuously increasing,Manish Jain,Infrastructure Team
+Server reboot required,Server requires reboot after patching,Manish Jain,Infrastructure Team
+Antivirus outdated,Antivirus signatures not updated,Rohit Gupta,Security Operations
+Server reboot required,Server requires reboot after patching,Neha Singh,Infrastructure Team
+Data not loading,Application dashboard data not loading,Suresh Kumar,Application Support
+Malware detected,Endpoint security detected malware,Vikram Patel,Security Operations
+Account locked,User account locked after multiple failed attempts,Sneha Iyer,IT Service Desk
+Memory leak detected,Server memory continuously increasing,Anita Rao,Infrastructure Team
+Keyboard not working,Laptop keyboard keys not responding,Neha Singh,End User Computing
+Laptop overheating,Laptop heating up and shutting down automatically,Amit Sharma,End User Computing
+Phishing email reported,User reported suspicious phishing email,Anita Rao,Security Operations
+Malware detected,Endpoint security detected malware,Pooja Mehta,Security Operations
+No internet access,User system not able to access internet,Vikram Patel,Network Team
+VPN disconnected,VPN drops frequently when connected remotely,Vikram Patel,Network Team
+Server reboot required,Server requires reboot after patching,Manish Jain,Infrastructure Team
+Firewall blocking access,Required port blocked by firewall,Pooja Mehta,Network Team
+Data not loading,Application dashboard data not loading,Neha Singh,Application Support
+Email login failure,User unable to login to Outlook email account,Amit Sharma,IT Service Desk
+Phishing email reported,User reported suspicious phishing email,Manish Jain,Security Operations
+Server reboot required,Server requires reboot after patching,Rohit Gupta,Infrastructure Team
+Antivirus outdated,Antivirus signatures not updated,Sneha Iyer,Security Operations
+Unauthorized access attempt,Multiple failed login attempts detected,Karan Malhotra,Security Operations
+DNS resolution issue,Internal domains not resolving via DNS,Rohit Gupta,Network Team
+Antivirus outdated,Antivirus signatures not updated,Vikram Patel,Security Operations
+Firewall blocking access,Required port blocked by firewall,Amit Sharma,Network Team
+Firewall blocking access,Required port blocked by firewall,Anita Rao,Network Team
+Firewall blocking access,Required port blocked by firewall,Rohit Gupta,Network Team
+Account locked,User account locked after multiple failed attempts,Rahul Verma,IT Service Desk
+Password expired,Active Directory password expired and user locked out,Suresh Kumar,IT Service Desk
+Disk I/O latency,High disk IO latency observed on VM,Sneha Iyer,Infrastructure Team
+Account locked,User account locked after multiple failed attempts,Manish Jain,IT Service Desk
+Memory leak detected,Server memory continuously increasing,Amit Sharma,Infrastructure Team
+Unauthorized access attempt,Multiple failed login attempts detected,Karan Malhotra,Security Operations
+Disk I/O latency,High disk IO latency observed on VM,Manish Jain,Infrastructure Team
+Server CPU high,Production server CPU usage above threshold,Rahul Verma,Infrastructure Team
+Login page error,Application login page throwing error,Rahul Verma,Application Support
+Blue screen error,System crashes with blue screen error,Neha Singh,End User Computing
+Keyboard not working,Laptop keyboard keys not responding,Amit Sharma,End User Computing
+DNS resolution issue,Internal domains not resolving via DNS,Manish Jain,Network Team
+Disk I/O latency,High disk IO latency observed on VM,Anita Rao,Infrastructure Team
+MFA not working,Multi-factor authentication failing during login,Pooja Mehta,IT Service Desk
+Data not loading,Application dashboard data not loading,Amit Sharma,Application Support
+Account locked,User account locked after multiple failed attempts,Karan Malhotra,IT Service Desk
+Permission denied,User lacks permission to access module,Sneha Iyer,Application Support
+DNS resolution issue,Internal domains not resolving via DNS,Amit Sharma,Network Team
+Permission denied,User lacks permission to access module,Priya Nair,Application Support
+Malware detected,Endpoint security detected malware,Neha Singh,Security Operations
+Firewall blocking access,Required port blocked by firewall,Karan Malhotra,Network Team
+Email login failure,User unable to login to Outlook email account,Vikram Patel,IT Service Desk
+Phishing email reported,User reported suspicious phishing email,Sneha Iyer,Security Operations
+Laptop overheating,Laptop heating up and shutting down automatically,Karan Malhotra,End User Computing
+Disk I/O latency,High disk IO latency observed on VM,Manish Jain,Infrastructure Team
+Disk I/O latency,High disk IO latency observed on VM,Manish Jain,Infrastructure Team
+MFA not working,Multi-factor authentication failing during login,Karan Malhotra,IT Service Desk
+Password expired,Active Directory password expired and user locked out,Anita Rao,IT Service Desk
+Data not loading,Application dashboard data not loading,Anita Rao,Application Support
+Email login failure,User unable to login to Outlook email account,Anita Rao,IT Service Desk
+Email login failure,User unable to login to Outlook email account,Manish Jain,IT Service Desk
+DNS resolution issue,Internal domains not resolving via DNS,Sneha Iyer,Network Team
+Unauthorized access attempt,Multiple failed login attempts detected,Vikram Patel,Security Operations
+Blue screen error,System crashes with blue screen error,Vikram Patel,End User Computing
+Malware detected,Endpoint security detected malware,Rahul Verma,Security Operations
+Disk I/O latency,High disk IO latency observed on VM,Rahul Verma,Infrastructure Team
+Blue screen error,System crashes with blue screen error,Rohit Gupta,End User Computing
+Account locked,User account locked after multiple failed attempts,Suresh Kumar,IT Service Desk
+Disk space full,System disk is full causing performance issues,Vikram Patel,End User Computing
+Server CPU high,Production server CPU usage above threshold,Pooja Mehta,Infrastructure Team
+Memory leak detected,Server memory continuously increasing,Vikram Patel,Infrastructure Team
+VPN disconnected,VPN drops frequently when connected remotely,Rahul Verma,Network Team
+Laptop overheating,Laptop heating up and shutting down automatically,Suresh Kumar,End User Computing
+Memory leak detected,Server memory continuously increasing,Manish Jain,Infrastructure Team
+Blue screen error,System crashes with blue screen error,Suresh Kumar,End User Computing
+Blue screen error,System crashes with blue screen error,Suresh Kumar,End User Computing
+Disk space full,System disk is full causing performance issues,Rahul Verma,End User Computing
+DNS resolution issue,Internal domains not resolving via DNS,Priya Nair,Network Team
+Login page error,Application login page throwing error,Pooja Mehta,Application Support
+DNS resolution issue,Internal domains not resolving via DNS,Vikram Patel,Network Team
+Disk I/O latency,High disk IO latency observed on VM,Anita Rao,Infrastructure Team
+Unauthorized access attempt,Multiple failed login attempts detected,Karan Malhotra,Security Operations
+Application crash,Business application crashes on launch,Neha Singh,Application Support
+DNS resolution issue,Internal domains not resolving via DNS,Karan Malhotra,Network Team
+No internet access,User system not able to access internet,Rahul Verma,Network Team
+Keyboard not working,Laptop keyboard keys not responding,Rohit Gupta,End User Computing
+Phishing email reported,User reported suspicious phishing email,Rahul Verma,Security Operations
+Firewall blocking access,Required port blocked by firewall,Pooja Mehta,Network Team
+Unauthorized access attempt,Multiple failed login attempts detected,Vikram Patel,Security Operations
+Application crash,Business application crashes on launch,Vikram Patel,Application Support
+Keyboard not working,Laptop keyboard keys not responding,Anita Rao,End User Computing
+Unauthorized access attempt,Multiple failed login attempts detected,Sneha Iyer,Security Operations
+Email login failure,User unable to login to Outlook email account,Sneha Iyer,IT Service Desk
+No internet access,User system not able to access internet,Sneha Iyer,Network Team
+Laptop overheating,Laptop heating up and shutting down automatically,Vikram Patel,End User Computing
+Data not loading,Application dashboard data not loading,Amit Sharma,Application Support
+Email login failure,User unable to login to Outlook email account,Amit Sharma,IT Service Desk
+Memory leak detected,Server memory continuously increasing,Pooja Mehta,Infrastructure Team
+Permission denied,User lacks permission to access module,Rohit Gupta,Application Support
+Email login failure,User unable to login to Outlook email account,Rohit Gupta,IT Service Desk
+Keyboard not working,Laptop keyboard keys not responding,Pooja Mehta,End User Computing
+No internet access,User system not able to access internet,Neha Singh,Network Team
+Permission denied,User lacks permission to access module,Karan Malhotra,Application Support
+Unauthorized access attempt,Multiple failed login attempts detected,Anita Rao,Security Operations
+Email login failure,User unable to login to Outlook email account,Sneha Iyer,IT Service Desk
+Disk I/O latency,High disk IO latency observed on VM,Neha Singh,Infrastructure Team
+Application crash,Business application crashes on launch,Rohit Gupta,Application Support
+No internet access,User system not able to access internet,Vikram Patel,Network Team
+Firewall blocking access,Required port blocked by firewall,Rohit Gupta,Network Team
+Phishing email reported,User reported suspicious phishing email,Priya Nair,Security Operations
+Permission denied,User lacks permission to access module,Anita Rao,Application Support
+Memory leak detected,Server memory continuously increasing,Anita Rao,Infrastructure Team
+Laptop overheating,Laptop heating up and shutting down automatically,Priya Nair,End User Computing
+Password expired,Active Directory password expired and user locked out,Neha Singh,IT Service Desk
+Data not loading,Application dashboard data not loading,Priya Nair,Application Support
+Server reboot required,Server requires reboot after patching,Pooja Mehta,Infrastructure Team
+Unauthorized access attempt,Multiple failed login attempts detected,Neha Singh,Security Operations
+Disk I/O latency,High disk IO latency observed on VM,Anita Rao,Infrastructure Team
+Firewall blocking access,Required port blocked by firewall,Rahul Verma,Network Team
+Account locked,User account locked after multiple failed attempts,Manish Jain,IT Service Desk
+Data not loading,Application dashboard data not loading,Neha Singh,Application Support
+Disk space full,System disk is full causing performance issues,Priya Nair,End User Computing
+Account locked,User account locked after multiple failed attempts,Anita Rao,IT Service Desk
+Antivirus outdated,Antivirus signatures not updated,Priya Nair,Security Operations
+Server CPU high,Production server CPU usage above threshold,Karan Malhotra,Infrastructure Team
+Firewall blocking access,Required port blocked by firewall,Amit Sharma,Network Team
+Server reboot required,Server requires reboot after patching,Rohit Gupta,Infrastructure Team
+VPN disconnected,VPN drops frequently when connected remotely,Suresh Kumar,Network Team
+Server CPU high,Production server CPU usage above threshold,Suresh Kumar,Infrastructure Team
+MFA not working,Multi-factor authentication failing during login,Pooja Mehta,IT Service Desk
+Phishing email reported,User reported suspicious phishing email,Anita Rao,Security Operations
+Laptop overheating,Laptop heating up and shutting down automatically,Pooja Mehta,End User Computing
+Malware detected,Endpoint security detected malware,Manish Jain,Security Operations
+Password expired,Active Directory password expired and user locked out,Amit Sharma,IT Service Desk
+Unauthorized access attempt,Multiple failed login attempts detected,Sneha Iyer,Security Operations
+Memory leak detected,Server memory continuously increasing,Manish Jain,Infrastructure Team
+Blue screen error,System crashes with blue screen error,Manish Jain,End User Computing
+Laptop overheating,Laptop heating up and shutting down automatically,Karan Malhotra,End User Computing
+Unauthorized access attempt,Multiple failed login attempts detected,Vikram Patel,Security Operations
+Password expired,Active Directory password expired and user locked out,Neha Singh,IT Service Desk
+Disk space full,System disk is full causing performance issues,Vikram Patel,End User Computing
+Server reboot required,Server requires reboot after patching,Rohit Gupta,Infrastructure Team
+Data not loading,Application dashboard data not loading,Neha Singh,Application Support
+Permission denied,User lacks permission to access module,Anita Rao,Application Support
+Disk space full,System disk is full causing performance issues,Neha Singh,End User Computing
+Memory leak detected,Server memory continuously increasing,Anita Rao,Infrastructure Team
+Phishing email reported,User reported suspicious phishing email,Rohit Gupta,Security Operations
+Memory leak detected,Server memory continuously increasing,Rohit Gupta,Infrastructure Team
+Permission denied,User lacks permission to access module,Karan Malhotra,Application Support
+No internet access,User system not able to access internet,Amit Sharma,Network Team
+Permission denied,User lacks permission to access module,Suresh Kumar,Application Support
+Data not loading,Application dashboard data not loading,Sneha Iyer,Application Support
+Malware detected,Endpoint security detected malware,Rohit Gupta,Security Operations
+MFA not working,Multi-factor authentication failing during login,Rohit Gupta,IT Service Desk
+Password expired,Active Directory password expired and user locked out,Rohit Gupta,IT Service Desk
+DNS resolution issue,Internal domains not resolving via DNS,Vikram Patel,Network Team
+Login page error,Application login page throwing error,Priya Nair,Application Support
+Data not loading,Application dashboard data not loading,Neha Singh,Application Support
+Data not loading,Application dashboard data not loading,Vikram Patel,Application Support
+Firewall blocking access,Required port blocked by firewall,Anita Rao,Network Team
+Disk space full,System disk is full causing performance issues,Rahul Verma,End User Computing
+No internet access,User system not able to access internet,Sneha Iyer,Network Team
+Disk space full,System disk is full causing performance issues,Neha Singh,End User Computing
+Password expired,Active Directory password expired and user locked out,Vikram Patel,IT Service Desk
+Firewall blocking access,Required port blocked by firewall,Anita Rao,Network Team
+Keyboard not working,Laptop keyboard keys not responding,Rohit Gupta,End User Computing
+Keyboard not working,Laptop keyboard keys not responding,Manish Jain,End User Computing
+Keyboard not working,Laptop keyboard keys not responding,Sneha Iyer,End User Computing
+Password expired,Active Directory password expired and user locked out,Pooja Mehta,IT Service Desk
+Data not loading,Application dashboard data not loading,Sneha Iyer,Application Support
+VPN disconnected,VPN drops frequently when connected remotely,Anita Rao,Network Team
+Email login failure,User unable to login to Outlook email account,Karan Malhotra,IT Service Desk
+Application crash,Business application crashes on launch,Suresh Kumar,Application Support
+VPN disconnected,VPN drops frequently when connected remotely,Rahul Verma,Network Team
+Phishing email reported,User reported suspicious phishing email,Amit Sharma,Security Operations
+Server reboot required,Server requires reboot after patching,Priya Nair,Infrastructure Team
+DNS resolution issue,Internal domains not resolving via DNS,Karan Malhotra,Network Team
+Laptop overheating,Laptop heating up and shutting down automatically,Rahul Verma,End User Computing
+Malware detected,Endpoint security detected malware,Anita Rao,Security Operations
+Permission denied,User lacks permission to access module,Neha Singh,Application Support
+Malware detected,Endpoint security detected malware,Amit Sharma,Security Operations
+Blue screen error,System crashes with blue screen error,Manish Jain,End User Computing
+Malware detected,Endpoint security detected malware,Vikram Patel,Security Operations
+Login page error,Application login page throwing error,Priya Nair,Application Support
+Keyboard not working,Laptop keyboard keys not responding,Vikram Patel,End User Computing
+MFA not working,Multi-factor authentication failing during login,Amit Sharma,IT Service Desk
+Keyboard not working,Laptop keyboard keys not responding,Sneha Iyer,End User Computing
+Password expired,Active Directory password expired and user locked out,Rohit Gupta,IT Service Desk
+Firewall blocking access,Required port blocked by firewall,Rohit Gupta,Network Team
+Email login failure,User unable to login to Outlook email account,Vikram Patel,IT Service Desk
+Phishing email reported,User reported suspicious phishing email,Anita Rao,Security Operations
+Application crash,Business application crashes on launch,Neha Singh,Application Support
+VPN disconnected,VPN drops frequently when connected remotely,Rohit Gupta,Network Team
+Laptop overheating,Laptop heating up and shutting down automatically,Anita Rao,End User Computing
+Disk I/O latency,High disk IO latency observed on VM,Anita Rao,Infrastructure Team
+Phishing email reported,User reported suspicious phishing email,Karan Malhotra,Security Operations
+Data not loading,Application dashboard data not loading,Manish Jain,Application Support
+MFA not working,Multi-factor authentication failing during login,Priya Nair,IT Service Desk
+Account locked,User account locked after multiple failed attempts,Manish Jain,IT Service Desk
+Server CPU high,Production server CPU usage above threshold,Anita Rao,Infrastructure Team
+Email login failure,User unable to login to Outlook email account,Priya Nair,IT Service Desk
+Disk space full,System disk is full causing performance issues,Pooja Mehta,End User Computing
+MFA not working,Multi-factor authentication failing during login,Sneha Iyer,IT Service Desk
+Blue screen error,System crashes with blue screen error,Anita Rao,End User Computing
+Disk I/O latency,High disk IO latency observed on VM,Anita Rao,Infrastructure Team
+Login page error,Application login page throwing error,Priya Nair,Application Support
+Account locked,User account locked after multiple failed attempts,Manish Jain,IT Service Desk
+No internet access,User system not able to access internet,Pooja Mehta,Network Team
+Firewall blocking access,Required port blocked by firewall,Rohit Gupta,Network Team
+Disk space full,System disk is full causing performance issues,Vikram Patel,End User Computing
+Blue screen error,System crashes with blue screen error,Karan Malhotra,End User Computing
+Email login failure,User unable to login to Outlook email account,Manish Jain,IT Service Desk
+Account locked,User account locked after multiple failed attempts,Karan Malhotra,IT Service Desk
+Phishing email reported,User reported suspicious phishing email,Anita Rao,Security Operations
+Login page error,Application login page throwing error,Anita Rao,Application Support
+Disk space full,System disk is full causing performance issues,Rohit Gupta,End User Computing
+No internet access,User system not able to access internet,Karan Malhotra,Network Team
+Laptop overheating,Laptop heating up and shutting down automatically,Amit Sharma,End User Computing
+MFA not working,Multi-factor authentication failing during login,Suresh Kumar,IT Service Desk
+Malware detected,Endpoint security detected malware,Manish Jain,Security Operations
+Firewall blocking access,Required port blocked by firewall,Manish Jain,Network Team
+No internet access,User system not able to access internet,Manish Jain,Network Team
+Login page error,Application login page throwing error,Priya Nair,Application Support
+Laptop overheating,Laptop heating up and shutting down automatically,Suresh Kumar,End User Computing
+Keyboard not working,Laptop keyboard keys not responding,Rohit Gupta,End User Computing
+Server CPU high,Production server CPU usage above threshold,Amit Sharma,Infrastructure Team
+Login page error,Application login page throwing error,Suresh Kumar,Application Support
+Disk space full,System disk is full causing performance issues,Manish Jain,End User Computing
+Laptop overheating,Laptop heating up and shutting down automatically,Vikram Patel,End User Computing
+Email login failure,User unable to login to Outlook email account,Neha Singh,IT Service Desk
+Application crash,Business application crashes on launch,Vikram Patel,Application Support
+Laptop overheating,Laptop heating up and shutting down automatically,Rohit Gupta,End User Computing
+No internet access,User system not able to access internet,Sneha Iyer,Network Team
+Blue screen error,System crashes with blue screen error,Suresh Kumar,End User Computing
+Data not loading,Application dashboard data not loading,Vikram Patel,Application Support
+Disk space full,System disk is full causing performance issues,Vikram Patel,End User Computing
+MFA not working,Multi-factor authentication failing during login,Pooja Mehta,IT Service Desk
+Keyboard not working,Laptop keyboard keys not responding,Rahul Verma,End User Computing
+DNS resolution issue,Internal domains not resolving via DNS,Neha Singh,Network Team
+Application crash,Business application crashes on launch,Rahul Verma,Application Support
+MFA not working,Multi-factor authentication failing during login,Priya Nair,IT Service Desk
+Application crash,Business application crashes on launch,Rahul Verma,Application Support
+Disk space full,System disk is full causing performance issues,Rahul Verma,End User Computing
+Account locked,User account locked after multiple failed attempts,Vikram Patel,IT Service Desk
+Password expired,Active Directory password expired and user locked out,Rahul Verma,IT Service Desk
+Unauthorized access attempt,Multiple failed login attempts detected,Rahul Verma,Security Operations
+Data not loading,Application dashboard data not loading,Amit Sharma,Application Support
+Application crash,Business application crashes on launch,Manish Jain,Application Support
+VPN disconnected,VPN drops frequently when connected remotely,Manish Jain,Network Team
+Login page error,Application login page throwing error,Rahul Verma,Application Support
+MFA not working,Multi-factor authentication failing during login,Sneha Iyer,IT Service Desk
+Blue screen error,System crashes with blue screen error,Rahul Verma,End User Computing
+Disk space full,System disk is full causing performance issues,Amit Sharma,End User Computing
+Server CPU high,Production server CPU usage above threshold,Anita Rao,Infrastructure Team
+Disk I/O latency,High disk IO latency observed on VM,Priya Nair,Infrastructure Team
+Data not loading,Application dashboard data not loading,Vikram Patel,Application Support
+Server CPU high,Production server CPU usage above threshold,Pooja Mehta,Infrastructure Team
+VPN disconnected,VPN drops frequently when connected remotely,Vikram Patel,Network Team
+MFA not working,Multi-factor authentication failing during login,Anita Rao,IT Service Desk
+Permission denied,User lacks permission to access module,Priya Nair,Application Support
+Password expired,Active Directory password expired and user locked out,Anita Rao,IT Service Desk
+Email login failure,User unable to login to Outlook email account,Amit Sharma,IT Service Desk
+Login page error,Application login page throwing error,Anita Rao,Application Support
+Server CPU high,Production server CPU usage above threshold,Karan Malhotra,Infrastructure Team
+Malware detected,Endpoint security detected malware,Neha Singh,Security Operations
+Password expired,Active Directory password expired and user locked out,Rohit Gupta,IT Service Desk
+Login page error,Application login page throwing error,Sneha Iyer,Application Support
+DNS resolution issue,Internal domains not resolving via DNS,Pooja Mehta,Network Team
+Email login failure,User unable to login to Outlook email account,Amit Sharma,IT Service Desk
+VPN disconnected,VPN drops frequently when connected remotely,Priya Nair,Network Team
+Laptop overheating,Laptop heating up and shutting down automatically,Neha Singh,End User Computing
+Malware detected,Endpoint security detected malware,Manish Jain,Security Operations
+Application crash,Business application crashes on launch,Suresh Kumar,Application Support
+Disk I/O latency,High disk IO latency observed on VM,Suresh Kumar,Infrastructure Team
+Login page error,Application login page throwing error,Amit Sharma,Application Support
+Malware detected,Endpoint security detected malware,Priya Nair,Security Operations
+Unauthorized access attempt,Multiple failed login attempts detected,Anita Rao,Security Operations
+Firewall blocking access,Required port blocked by firewall,Sneha Iyer,Network Team
+DNS resolution issue,Internal domains not resolving via DNS,Sneha Iyer,Network Team
+MFA not working,Multi-factor authentication failing during login,Rahul Verma,IT Service Desk
+Email login failure,User unable to login to Outlook email account,Sneha Iyer,IT Service Desk
+Server CPU high,Production server CPU usage above threshold,Rahul Verma,Infrastructure Team
+Firewall blocking access,Required port blocked by firewall,Rohit Gupta,Network Team
+Permission denied,User lacks permission to access module,Anita Rao,Application Support
+Application crash,Business application crashes on launch,Anita Rao,Application Support
+Server reboot required,Server requires reboot after patching,Vikram Patel,Infrastructure Team
+Blue screen error,System crashes with blue screen error,Rahul Verma,End User Computing
+Permission denied,User lacks permission to access module,Suresh Kumar,Application Support
+Firewall blocking access,Required port blocked by firewall,Suresh Kumar,Network Team
+Firewall blocking access,Required port blocked by firewall,Rahul Verma,Network Team
+Unauthorized access attempt,Multiple failed login attempts detected,Amit Sharma,Security Operations
+Keyboard not working,Laptop keyboard keys not responding,Rahul Verma,End User Computing
+Unauthorized access attempt,Multiple failed login attempts detected,Rohit Gupta,Security Operations
+Malware detected,Endpoint security detected malware,Vikram Patel,Security Operations
+Disk I/O latency,High disk IO latency observed on VM,Anita Rao,Infrastructure Team
+Password expired,Active Directory password expired and user locked out,Pooja Mehta,IT Service Desk
+Firewall blocking access,Required port blocked by firewall,Priya Nair,Network Team
+Phishing email reported,User reported suspicious phishing email,Suresh Kumar,Security Operations
+Firewall blocking access,Required port blocked by firewall,Amit Sharma,Network Team
+Server reboot required,Server requires reboot after patching,Anita Rao,Infrastructure Team
+Application crash,Business application crashes on launch,Rohit Gupta,Application Support
+DNS resolution issue,Internal domains not resolving via DNS,Rahul Verma,Network Team
+Login page error,Application login page throwing error,Rohit Gupta,Application Support
+Keyboard not working,Laptop keyboard keys not responding,Priya Nair,End User Computing
+Laptop overheating,Laptop heating up and shutting down automatically,Rahul Verma,End User Computing
+No internet access,User system not able to access internet,Rahul Verma,Network Team
+Blue screen error,System crashes with blue screen error,Sneha Iyer,End User Computing
+Antivirus outdated,Antivirus signatures not updated,Suresh Kumar,Security Operations
+VPN disconnected,VPN drops frequently when connected remotely,Rahul Verma,Network Team
+Blue screen error,System crashes with blue screen error,Vikram Patel,End User Computing
+Blue screen error,System crashes with blue screen error,Manish Jain,End User Computing
+Application crash,Business application crashes on launch,Vikram Patel,Application Support
+Account locked,User account locked after multiple failed attempts,Rohit Gupta,IT Service Desk
+Malware detected,Endpoint security detected malware,Neha Singh,Security Operations
+VPN disconnected,VPN drops frequently when connected remotely,Vikram Patel,Network Team
+Application crash,Business application crashes on launch,Sneha Iyer,Application Support
+Antivirus outdated,Antivirus signatures not updated,Priya Nair,Security Operations
+Permission denied,User lacks permission to access module,Anita Rao,Application Support
+Login page error,Application login page throwing error,Pooja Mehta,Application Support
+Server CPU high,Production server CPU usage above threshold,Manish Jain,Infrastructure Team
+Laptop overheating,Laptop heating up and shutting down automatically,Sneha Iyer,End User Computing
+Memory leak detected,Server memory continuously increasing,Sneha Iyer,Infrastructure Team
+Phishing email reported,User reported suspicious phishing email,Pooja Mehta,Security Operations
+Server CPU high,Production server CPU usage above threshold,Rohit Gupta,Infrastructure Team
+Memory leak detected,Server memory continuously increasing,Neha Singh,Infrastructure Team
+Firewall blocking access,Required port blocked by firewall,Pooja Mehta,Network Team
+Disk space full,System disk is full causing performance issues,Rohit Gupta,End User Computing
+Memory leak detected,Server memory continuously increasing,Rohit Gupta,Infrastructure Team
+Login page error,Application login page throwing error,Amit Sharma,Application Support
+Firewall blocking access,Required port blocked by firewall,Rohit Gupta,Network Team
+Application crash,Business application crashes on launch,Suresh Kumar,Application Support
+Antivirus outdated,Antivirus signatures not updated,Rahul Verma,Security Operations
+Blue screen error,System crashes with blue screen error,Rohit Gupta,End User Computing
+Firewall blocking access,Required port blocked by firewall,Vikram Patel,Network Team
+Unauthorized access attempt,Multiple failed login attempts detected,Pooja Mehta,Security Operations
+Account locked,User account locked after multiple failed attempts,Rahul Verma,IT Service Desk
+Phishing email reported,User reported suspicious phishing email,Manish Jain,Security Operations
+Laptop overheating,Laptop heating up and shutting down automatically,Neha Singh,End User Computing
+Blue screen error,System crashes with blue screen error,Rohit Gupta,End User Computing
+Disk space full,System disk is full causing performance issues,Manish Jain,End User Computing
+DNS resolution issue,Internal domains not resolving via DNS,Neha Singh,Network Team
+Blue screen error,System crashes with blue screen error,Rohit Gupta,End User Computing
+Application crash,Business application crashes on launch,Manish Jain,Application Support
+MFA not working,Multi-factor authentication failing during login,Suresh Kumar,IT Service Desk
+Disk space full,System disk is full causing performance issues,Rahul Verma,End User Computing
+VPN disconnected,VPN drops frequently when connected remotely,Sneha Iyer,Network Team
+Antivirus outdated,Antivirus signatures not updated,Priya Nair,Security Operations
+Disk I/O latency,High disk IO latency observed on VM,Rohit Gupta,Infrastructure Team
+Server reboot required,Server requires reboot after patching,Priya Nair,Infrastructure Team
+Password expired,Active Directory password expired and user locked out,Manish Jain,IT Service Desk
+Permission denied,User lacks permission to access module,Karan Malhotra,Application Support
+Blue screen error,System crashes with blue screen error,Sneha Iyer,End User Computing
+Disk I/O latency,High disk IO latency observed on VM,Anita Rao,Infrastructure Team
+Memory leak detected,Server memory continuously increasing,Rahul Verma,Infrastructure Team
+MFA not working,Multi-factor authentication failing during login,Neha Singh,IT Service Desk
+Disk space full,System disk is full causing performance issues,Karan Malhotra,End User Computing
+Server reboot required,Server requires reboot after patching,Manish Jain,Infrastructure Team
+Phishing email reported,User reported suspicious phishing email,Priya Nair,Security Operations
+Application crash,Business application crashes on launch,Rahul Verma,Application Support
+Login page error,Application login page throwing error,Rohit Gupta,Application Support
+Password expired,Active Directory password expired and user locked out,Vikram Patel,IT Service Desk
+Permission denied,User lacks permission to access module,Sneha Iyer,Application Support
+Blue screen error,System crashes with blue screen error,Sneha Iyer,End User Computing
+Disk I/O latency,High disk IO latency observed on VM,Rohit Gupta,Infrastructure Team
+DNS resolution issue,Internal domains not resolving via DNS,Anita Rao,Network Team
+DNS resolution issue,Internal domains not resolving via DNS,Priya Nair,Network Team
+Malware detected,Endpoint security detected malware,Rahul Verma,Security Operations
+Keyboard not working,Laptop keyboard keys not responding,Rohit Gupta,End User Computing
+Malware detected,Endpoint security detected malware,Karan Malhotra,Security Operations
+Phishing email reported,User reported suspicious phishing email,Sneha Iyer,Security Operations
+Server CPU high,Production server CPU usage above threshold,Rohit Gupta,Infrastructure Team
+Account locked,User account locked after multiple failed attempts,Manish Jain,IT Service Desk
+Firewall blocking access,Required port blocked by firewall,Pooja Mehta,Network Team
+Server reboot required,Server requires reboot after patching,Pooja Mehta,Infrastructure Team
+Firewall blocking access,Required port blocked by firewall,Suresh Kumar,Network Team
+Keyboard not working,Laptop keyboard keys not responding,Manish Jain,End User Computing
+Antivirus outdated,Antivirus signatures not updated,Pooja Mehta,Security Operations
+VPN disconnected,VPN drops frequently when connected remotely,Neha Singh,Network Team
+Application crash,Business application crashes on launch,Pooja Mehta,Application Support
+Phishing email reported,User reported suspicious phishing email,Manish Jain,Security Operations
+Antivirus outdated,Antivirus signatures not updated,Pooja Mehta,Security Operations
+Laptop overheating,Laptop heating up and shutting down automatically,Sneha Iyer,End User Computing
+Laptop overheating,Laptop heating up and shutting down automatically,Sneha Iyer,End User Computing
+Permission denied,User lacks permission to access module,Rahul Verma,Application Support
+MFA not working,Multi-factor authentication failing during login,Neha Singh,IT Service Desk
+VPN disconnected,VPN drops frequently when connected remotely,Karan Malhotra,Network Team
+MFA not working,Multi-factor authentication failing during login,Rahul Verma,IT Service Desk
+Firewall blocking access,Required port blocked by firewall,Karan Malhotra,Network Team
+MFA not working,Multi-factor authentication failing during login,Pooja Mehta,IT Service Desk
+MFA not working,Multi-factor authentication failing during login,Pooja Mehta,IT Service Desk
+Server CPU high,Production server CPU usage above threshold,Pooja Mehta,Infrastructure Team
+Server CPU high,Production server CPU usage above threshold,Priya Nair,Infrastructure Team
+DNS resolution issue,Internal domains not resolving via DNS,Pooja Mehta,Network Team
+Firewall blocking access,Required port blocked by firewall,Rahul Verma,Network Team
+Permission denied,User lacks permission to access module,Anita Rao,Application Support
+VPN disconnected,VPN drops frequently when connected remotely,Amit Sharma,Network Team
+DNS resolution issue,Internal domains not resolving via DNS,Rohit Gupta,Network Team
+Memory leak detected,Server memory continuously increasing,Rahul Verma,Infrastructure Team
+Blue screen error,System crashes with blue screen error,Vikram Patel,End User Computing
+No internet access,User system not able to access internet,Amit Sharma,Network Team
+Application crash,Business application crashes on launch,Vikram Patel,Application Support
+Permission denied,User lacks permission to access module,Amit Sharma,Application Support
+Keyboard not working,Laptop keyboard keys not responding,Rohit Gupta,End User Computing
+Blue screen error,System crashes with blue screen error,Rahul Verma,End User Computing
+Unauthorized access attempt,Multiple failed login attempts detected,Rahul Verma,Security Operations
+MFA not working,Multi-factor authentication failing during login,Neha Singh,IT Service Desk
+Login page error,Application login page throwing error,Neha Singh,Application Support
+Firewall blocking access,Required port blocked by firewall,Rohit Gupta,Network Team
+Disk space full,System disk is full causing performance issues,Neha Singh,End User Computing
+Antivirus outdated,Antivirus signatures not updated,Sneha Iyer,Security Operations
+MFA not working,Multi-factor authentication failing during login,Suresh Kumar,IT Service Desk
+Server CPU high,Production server CPU usage above threshold,Pooja Mehta,Infrastructure Team
+Antivirus outdated,Antivirus signatures not updated,Rahul Verma,Security Operations
+Data not loading,Application dashboard data not loading,Priya Nair,Application Support
+Login page error,Application login page throwing error,Rahul Verma,Application Support
+Firewall blocking access,Required port blocked by firewall,Pooja Mehta,Network Team
+MFA not working,Multi-factor authentication failing during login,Sneha Iyer,IT Service Desk
+Firewall blocking access,Required port blocked by firewall,Neha Singh,Network Team
+Account locked,User account locked after multiple failed attempts,Anita Rao,IT Service Desk
+VPN disconnected,VPN drops frequently when connected remotely,Sneha Iyer,Network Team
+Server CPU high,Production server CPU usage above threshold,Rohit Gupta,Infrastructure Team
+DNS resolution issue,Internal domains not resolving via DNS,Neha Singh,Network Team
+Password expired,Active Directory password expired and user locked out,Rohit Gupta,IT Service Desk
+Keyboard not working,Laptop keyboard keys not responding,Rohit Gupta,End User Computing
+Email login failure,User unable to login to Outlook email account,Neha Singh,IT Service Desk
+Password expired,Active Directory password expired and user locked out,Pooja Mehta,IT Service Desk
+Disk space full,System disk is full causing performance issues,Amit Sharma,End User Computing
+Password expired,Active Directory password expired and user locked out,Amit Sharma,IT Service Desk
+VPN disconnected,VPN drops frequently when connected remotely,Karan Malhotra,Network Team
+DNS resolution issue,Internal domains not resolving via DNS,Rahul Verma,Network Team
+MFA not working,Multi-factor authentication failing during login,Priya Nair,IT Service Desk
+Data not loading,Application dashboard data not loading,Anita Rao,Application Support
+DNS resolution issue,Internal domains not resolving via DNS,Pooja Mehta,Network Team
+Login page error,Application login page throwing error,Vikram Patel,Application Support
+Memory leak detected,Server memory continuously increasing,Neha Singh,Infrastructure Team
+No internet access,User system not able to access internet,Priya Nair,Network Team
+Laptop overheating,Laptop heating up and shutting down automatically,Pooja Mehta,End User Computing
+Account locked,User account locked after multiple failed attempts,Manish Jain,IT Service Desk
+Login page error,Application login page throwing error,Amit Sharma,Application Support
+Server reboot required,Server requires reboot after patching,Amit Sharma,Infrastructure Team
+Malware detected,Endpoint security detected malware,Anita Rao,Security Operations
+Blue screen error,System crashes with blue screen error,Pooja Mehta,End User Computing
+Email login failure,User unable to login to Outlook email account,Rahul Verma,IT Service Desk
+Firewall blocking access,Required port blocked by firewall,Pooja Mehta,Network Team
+DNS resolution issue,Internal domains not resolving via DNS,Vikram Patel,Network Team
+Firewall blocking access,Required port blocked by firewall,Rahul Verma,Network Team
+Server CPU high,Production server CPU usage above threshold,Karan Malhotra,Infrastructure Team
+Permission denied,User lacks permission to access module,Manish Jain,Application Support
+Password expired,Active Directory password expired and user locked out,Vikram Patel,IT Service Desk
+Memory leak detected,Server memory continuously increasing,Pooja Mehta,Infrastructure Team
+Data not loading,Application dashboard data not loading,Rohit Gupta,Application Support
+Email login failure,User unable to login to Outlook email account,Manish Jain,IT Service Desk
+Phishing email reported,User reported suspicious phishing email,Anita Rao,Security Operations
+No internet access,User system not able to access internet,Sneha Iyer,Network Team
+MFA not working,Multi-factor authentication failing during login,Rohit Gupta,IT Service Desk
+Data not loading,Application dashboard data not loading,Rahul Verma,Application Support
+Memory leak detected,Server memory continuously increasing,Manish Jain,Infrastructure Team
+Antivirus outdated,Antivirus signatures not updated,Priya Nair,Security Operations
+Email login failure,User unable to login to Outlook email account,Manish Jain,IT Service Desk
+Phishing email reported,User reported suspicious phishing email,Suresh Kumar,Security Operations
+Server CPU high,Production server CPU usage above threshold,Anita Rao,Infrastructure Team
+Firewall blocking access,Required port blocked by firewall,Rohit Gupta,Network Team
+Disk I/O latency,High disk IO latency observed on VM,Anita Rao,Infrastructure Team
+Antivirus outdated,Antivirus signatures not updated,Anita Rao,Security Operations
+DNS resolution issue,Internal domains not resolving via DNS,Anita Rao,Network Team
+Password expired,Active Directory password expired and user locked out,Neha Singh,IT Service Desk
+Password expired,Active Directory password expired and user locked out,Manish Jain,IT Service Desk
+Keyboard not working,Laptop keyboard keys not responding,Pooja Mehta,End User Computing
+No internet access,User system not able to access internet,Vikram Patel,Network Team
+Password expired,Active Directory password expired and user locked out,Priya Nair,IT Service Desk
+Disk I/O latency,High disk IO latency observed on VM,Suresh Kumar,Infrastructure Team
+Malware detected,Endpoint security detected malware,Karan Malhotra,Security Operations
+Permission denied,User lacks permission to access module,Amit Sharma,Application Support
+No internet access,User system not able to access internet,Pooja Mehta,Network Team
+Application crash,Business application crashes on launch,Karan Malhotra,Application Support
+Login page error,Application login page throwing error,Pooja Mehta,Application Support
+DNS resolution issue,Internal domains not resolving via DNS,Neha Singh,Network Team
+Email login failure,User unable to login to Outlook email account,Rahul Verma,IT Service Desk
+MFA not working,Multi-factor authentication failing during login,Rohit Gupta,IT Service Desk
+Data not loading,Application dashboard data not loading,Suresh Kumar,Application Support
+Memory leak detected,Server memory continuously increasing,Karan Malhotra,Infrastructure Team
+No internet access,User system not able to access internet,Vikram Patel,Network Team
+DNS resolution issue,Internal domains not resolving via DNS,Pooja Mehta,Network Team
+Memory leak detected,Server memory continuously increasing,Priya Nair,Infrastructure Team
+Memory leak detected,Server memory continuously increasing,Rohit Gupta,Infrastructure Team
+Account locked,User account locked after multiple failed attempts,Suresh Kumar,IT Service Desk
+Password expired,Active Directory password expired and user locked out,Rahul Verma,IT Service Desk
+Password expired,Active Directory password expired and user locked out,Amit Sharma,IT Service Desk
+Server CPU high,Production server CPU usage above threshold,Neha Singh,Infrastructure Team
+Firewall blocking access,Required port blocked by firewall,Vikram Patel,Network Team
+Firewall blocking access,Required port blocked by firewall,Amit Sharma,Network Team
+Server reboot required,Server requires reboot after patching,Rahul Verma,Infrastructure Team
+Server reboot required,Server requires reboot after patching,Rahul Verma,Infrastructure Team
+Account locked,User account locked after multiple failed attempts,Rohit Gupta,IT Service Desk
+Unauthorized access attempt,Multiple failed login attempts detected,Anita Rao,Security Operations
+Application crash,Business application crashes on launch,Neha Singh,Application Support
+Data not loading,Application dashboard data not loading,Sneha Iyer,Application Support
+Blue screen error,System crashes with blue screen error,Rohit Gupta,End User Computing
+VPN disconnected,VPN drops frequently when connected remotely,Pooja Mehta,Network Team
+Memory leak detected,Server memory continuously increasing,Neha Singh,Infrastructure Team
+VPN disconnected,VPN drops frequently when connected remotely,Suresh Kumar,Network Team
+Server reboot required,Server requires reboot after patching,Amit Sharma,Infrastructure Team
+Firewall blocking access,Required port blocked by firewall,Priya Nair,Network Team
+Antivirus outdated,Antivirus signatures not updated,Suresh Kumar,Security Operations
+MFA not working,Multi-factor authentication failing during login,Pooja Mehta,IT Service Desk
+Data not loading,Application dashboard data not loading,Pooja Mehta,Application Support
+Disk space full,System disk is full causing performance issues,Suresh Kumar,End User Computing
+Disk space full,System disk is full causing performance issues,Anita Rao,End User Computing
+No internet access,User system not able to access internet,Rohit Gupta,Network Team
+Server CPU high,Production server CPU usage above threshold,Amit Sharma,Infrastructure Team
+Firewall blocking access,Required port blocked by firewall,Manish Jain,Network Team
+Antivirus outdated,Antivirus signatures not updated,Neha Singh,Security Operations
+Antivirus outdated,Antivirus signatures not updated,Suresh Kumar,Security Operations
+Password expired,Active Directory password expired and user locked out,Karan Malhotra,IT Service Desk
+DNS resolution issue,Internal domains not resolving via DNS,Sneha Iyer,Network Team
+Server CPU high,Production server CPU usage above threshold,Amit Sharma,Infrastructure Team
+Laptop overheating,Laptop heating up and shutting down automatically,Suresh Kumar,End User Computing
+Firewall blocking access,Required port blocked by firewall,Anita Rao,Network Team
+Permission denied,User lacks permission to access module,Vikram Patel,Application Support
+Laptop overheating,Laptop heating up and shutting down automatically,Amit Sharma,End User Computing
+MFA not working,Multi-factor authentication failing during login,Anita Rao,IT Service Desk
+DNS resolution issue,Internal domains not resolving via DNS,Priya Nair,Network Team
+Email login failure,User unable to login to Outlook email account,Priya Nair,IT Service Desk
+Email login failure,User unable to login to Outlook email account,Amit Sharma,IT Service Desk
+Password expired,Active Directory password expired and user locked out,Pooja Mehta,IT Service Desk
+Unauthorized access attempt,Multiple failed login attempts detected,Neha Singh,Security Operations
+Firewall blocking access,Required port blocked by firewall,Vikram Patel,Network Team
+Disk space full,System disk is full causing performance issues,Karan Malhotra,End User Computing
+Malware detected,Endpoint security detected malware,Neha Singh,Security Operations
+Malware detected,Endpoint security detected malware,Suresh Kumar,Security Operations
+Firewall blocking access,Required port blocked by firewall,Neha Singh,Network Team
+Password expired,Active Directory password expired and user locked out,Karan Malhotra,IT Service Desk
+Memory leak detected,Server memory continuously increasing,Suresh Kumar,Infrastructure Team
+Application crash,Business application crashes on launch,Anita Rao,Application Support
+MFA not working,Multi-factor authentication failing during login,Suresh Kumar,IT Service Desk
+VPN disconnected,VPN drops frequently when connected remotely,Sneha Iyer,Network Team
+Server reboot required,Server requires reboot after patching,Suresh Kumar,Infrastructure Team
+Password expired,Active Directory password expired and user locked out,Priya Nair,IT Service Desk
+Application crash,Business application crashes on launch,Sneha Iyer,Application Support
+Memory leak detected,Server memory continuously increasing,Manish Jain,Infrastructure Team
+Account locked,User account locked after multiple failed attempts,Rohit Gupta,IT Service Desk
+Blue screen error,System crashes with blue screen error,Anita Rao,End User Computing
+No internet access,User system not able to access internet,Manish Jain,Network Team
+Email login failure,User unable to login to Outlook email account,Neha Singh,IT Service Desk
+Unauthorized access attempt,Multiple failed login attempts detected,Anita Rao,Security Operations
+Server CPU high,Production server CPU usage above threshold,Suresh Kumar,Infrastructure Team
+Firewall blocking access,Required port blocked by firewall,Suresh Kumar,Network Team
+VPN disconnected,VPN drops frequently when connected remotely,Manish Jain,Network Team
+Data not loading,Application dashboard data not loading,Vikram Patel,Application Support
+Disk space full,System disk is full causing performance issues,Amit Sharma,End User Computing
+Password expired,Active Directory password expired and user locked out,Suresh Kumar,IT Service Desk
+Password expired,Active Directory password expired and user locked out,Priya Nair,IT Service Desk
+Login page error,Application login page throwing error,Amit Sharma,Application Support
+MFA not working,Multi-factor authentication failing during login,Pooja Mehta,IT Service Desk
+Phishing email reported,User reported suspicious phishing email,Anita Rao,Security Operations
+Antivirus outdated,Antivirus signatures not updated,Rohit Gupta,Security Operations
+Antivirus outdated,Antivirus signatures not updated,Neha Singh,Security Operations
+Permission denied,User lacks permission to access module,Sneha Iyer,Application Support
+DNS resolution issue,Internal domains not resolving via DNS,Priya Nair,Network Team
+Keyboard not working,Laptop keyboard keys not responding,Manish Jain,End User Computing
+MFA not working,Multi-factor authentication failing during login,Vikram Patel,IT Service Desk
+Data not loading,Application dashboard data not loading,Manish Jain,Application Support
+DNS resolution issue,Internal domains not resolving via DNS,Priya Nair,Network Team
+Permission denied,User lacks permission to access module,Vikram Patel,Application Support
+Disk I/O latency,High disk IO latency observed on VM,Karan Malhotra,Infrastructure Team
+Memory leak detected,Server memory continuously increasing,Rohit Gupta,Infrastructure Team
+Application crash,Business application crashes on launch,Amit Sharma,Application Support
+Phishing email reported,User reported suspicious phishing email,Karan Malhotra,Security Operations
+Keyboard not working,Laptop keyboard keys not responding,Sneha Iyer,End User Computing
+Data not loading,Application dashboard data not loading,Pooja Mehta,Application Support
+MFA not working,Multi-factor authentication failing during login,Pooja Mehta,IT Service Desk
+Email login failure,User unable to login to Outlook email account,Amit Sharma,IT Service Desk
+Application crash,Business application crashes on launch,Karan Malhotra,Application Support
+Login page error,Application login page throwing error,Manish Jain,Application Support
+Disk I/O latency,High disk IO latency observed on VM,Vikram Patel,Infrastructure Team
+Email login failure,User unable to login to Outlook email account,Neha Singh,IT Service Desk
+Blue screen error,System crashes with blue screen error,Neha Singh,End User Computing
+Login page error,Application login page throwing error,Rohit Gupta,Application Support
+MFA not working,Multi-factor authentication failing during login,Suresh Kumar,IT Service Desk
+No internet access,User system not able to access internet,Sneha Iyer,Network Team
+Permission denied,User lacks permission to access module,Anita Rao,Application Support
+Antivirus outdated,Antivirus signatures not updated,Manish Jain,Security Operations
+Server reboot required,Server requires reboot after patching,Suresh Kumar,Infrastructure Team
+No internet access,User system not able to access internet,Sneha Iyer,Network Team
+Blue screen error,System crashes with blue screen error,Priya Nair,End User Computing
+Blue screen error,System crashes with blue screen error,Manish Jain,End User Computing
+Server reboot required,Server requires reboot after patching,Neha Singh,Infrastructure Team
+Keyboard not working,Laptop keyboard keys not responding,Karan Malhotra,End User Computing
+Data not loading,Application dashboard data not loading,Karan Malhotra,Application Support
+Disk I/O latency,High disk IO latency observed on VM,Priya Nair,Infrastructure Team
+VPN disconnected,VPN drops frequently when connected remotely,Pooja Mehta,Network Team
+Account locked,User account locked after multiple failed attempts,Suresh Kumar,IT Service Desk
+Disk space full,System disk is full causing performance issues,Pooja Mehta,End User Computing
+VPN disconnected,VPN drops frequently when connected remotely,Rahul Verma,Network Team
+Laptop overheating,Laptop heating up and shutting down automatically,Pooja Mehta,End User Computing
+Application crash,Business application crashes on launch,Anita Rao,Application Support
+Login page error,Application login page throwing error,Amit Sharma,Application Support
+Blue screen error,System crashes with blue screen error,Vikram Patel,End User Computing
+Account locked,User account locked after multiple failed attempts,Suresh Kumar,IT Service Desk
+Laptop overheating,Laptop heating up and shutting down automatically,Suresh Kumar,End User Computing
+Malware detected,Endpoint security detected malware,Anita Rao,Security Operations
+Password expired,Active Directory password expired and user locked out,Pooja Mehta,IT Service Desk
+Server CPU high,Production server CPU usage above threshold,Karan Malhotra,Infrastructure Team
+Phishing email reported,User reported suspicious phishing email,Anita Rao,Security Operations
+Application crash,Business application crashes on launch,Karan Malhotra,Application Support
+Application crash,Business application crashes on launch,Rahul Verma,Application Support
+VPN disconnected,VPN drops frequently when connected remotely,Karan Malhotra,Network Team
+Disk space full,System disk is full causing performance issues,Suresh Kumar,End User Computing
+Data not loading,Application dashboard data not loading,Neha Singh,Application Support
+Memory leak detected,Server memory continuously increasing,Neha Singh,Infrastructure Team
+Malware detected,Endpoint security detected malware,Rahul Verma,Security Operations
+Server reboot required,Server requires reboot after patching,Anita Rao,Infrastructure Team
+Firewall blocking access,Required port blocked by firewall,Sneha Iyer,Network Team
+DNS resolution issue,Internal domains not resolving via DNS,Amit Sharma,Network Team
+Password expired,Active Directory password expired and user locked out,Priya Nair,IT Service Desk
+Memory leak detected,Server memory continuously increasing,Anita Rao,Infrastructure Team
+Server CPU high,Production server CPU usage above threshold,Amit Sharma,Infrastructure Team
+Permission denied,User lacks permission to access module,Vikram Patel,Application Support
+Laptop overheating,Laptop heating up and shutting down automatically,Sneha Iyer,End User Computing
+MFA not working,Multi-factor authentication failing during login,Rahul Verma,IT Service Desk
+Antivirus outdated,Antivirus signatures not updated,Priya Nair,Security Operations
+Server reboot required,Server requires reboot after patching,Rohit Gupta,Infrastructure Team
+Password expired,Active Directory password expired and user locked out,Manish Jain,IT Service Desk
+Application crash,Business application crashes on launch,Priya Nair,Application Support
+Account locked,User account locked after multiple failed attempts,Priya Nair,IT Service Desk
+Application crash,Business application crashes on launch,Amit Sharma,Application Support
+Email login failure,User unable to login to Outlook email account,Amit Sharma,IT Service Desk
+Server reboot required,Server requires reboot after patching,Anita Rao,Infrastructure Team
+Permission denied,User lacks permission to access module,Sneha Iyer,Application Support
+Firewall blocking access,Required port blocked by firewall,Anita Rao,Network Team
+Antivirus outdated,Antivirus signatures not updated,Manish Jain,Security Operations
+Keyboard not working,Laptop keyboard keys not responding,Neha Singh,End User Computing
+Disk I/O latency,High disk IO latency observed on VM,Manish Jain,Infrastructure Team
+No internet access,User system not able to access internet,Priya Nair,Network Team
+Keyboard not working,Laptop keyboard keys not responding,Karan Malhotra,End User Computing
+Keyboard not working,Laptop keyboard keys not responding,Sneha Iyer,End User Computing
+Firewall blocking access,Required port blocked by firewall,Suresh Kumar,Network Team
+Application crash,Business application crashes on launch,Pooja Mehta,Application Support
+Keyboard not working,Laptop keyboard keys not responding,Pooja Mehta,End User Computing
+DNS resolution issue,Internal domains not resolving via DNS,Manish Jain,Network Team
+Data not loading,Application dashboard data not loading,Neha Singh,Application Support
+Disk I/O latency,High disk IO latency observed on VM,Karan Malhotra,Infrastructure Team
+VPN disconnected,VPN drops frequently when connected remotely,Amit Sharma,Network Team
+Antivirus outdated,Antivirus signatures not updated,Rohit Gupta,Security Operations
+Memory leak detected,Server memory continuously increasing,Karan Malhotra,Infrastructure Team
+Unauthorized access attempt,Multiple failed login attempts detected,Pooja Mehta,Security Operations
+Unauthorized access attempt,Multiple failed login attempts detected,Karan Malhotra,Security Operations
+Login page error,Application login page throwing error,Anita Rao,Application Support
+Account locked,User account locked after multiple failed attempts,Rohit Gupta,IT Service Desk
+Unauthorized access attempt,Multiple failed login attempts detected,Vikram Patel,Security Operations
+Antivirus outdated,Antivirus signatures not updated,Vikram Patel,Security Operations
+VPN disconnected,VPN drops frequently when connected remotely,Rahul Verma,Network Team
+Application crash,Business application crashes on launch,Anita Rao,Application Support
+Disk space full,System disk is full causing performance issues,Neha Singh,End User Computing
+Permission denied,User lacks permission to access module,Manish Jain,Application Support
+Blue screen error,System crashes with blue screen error,Karan Malhotra,End User Computing
+VPN disconnected,VPN drops frequently when connected remotely,Priya Nair,Network Team
+Application crash,Business application crashes on launch,Pooja Mehta,Application Support
+Password expired,Active Directory password expired and user locked out,Sneha Iyer,IT Service Desk
+Blue screen error,System crashes with blue screen error,Sneha Iyer,End User Computing
+Email login failure,User unable to login to Outlook email account,Priya Nair,IT Service Desk
+Disk I/O latency,High disk IO latency observed on VM,Sneha Iyer,Infrastructure Team
+Disk I/O latency,High disk IO latency observed on VM,Anita Rao,Infrastructure Team
+Password expired,Active Directory password expired and user locked out,Neha Singh,IT Service Desk
+Server CPU high,Production server CPU usage above threshold,Rahul Verma,Infrastructure Team
+No internet access,User system not able to access internet,Suresh Kumar,Network Team
+Data not loading,Application dashboard data not loading,Suresh Kumar,Application Support
+Disk space full,System disk is full causing performance issues,Manish Jain,End User Computing
+DNS resolution issue,Internal domains not resolving via DNS,Rohit Gupta,Network Team
+Application crash,Business application crashes on launch,Rohit Gupta,Application Support
+Login page error,Application login page throwing error,Manish Jain,Application Support
+Firewall blocking access,Required port blocked by firewall,Suresh Kumar,Network Team
+No internet access,User system not able to access internet,Priya Nair,Network Team
+Phishing email reported,User reported suspicious phishing email,Priya Nair,Security Operations
+Firewall blocking access,Required port blocked by firewall,Karan Malhotra,Network Team
+Server CPU high,Production server CPU usage above threshold,Karan Malhotra,Infrastructure Team
+Permission denied,User lacks permission to access module,Sneha Iyer,Application Support
+Login page error,Application login page throwing error,Amit Sharma,Application Support
+Keyboard not working,Laptop keyboard keys not responding,Manish Jain,End User Computing
+Firewall blocking access,Required port blocked by firewall,Rahul Verma,Network Team
+No internet access,User system not able to access internet,Sneha Iyer,Network Team
+No internet access,User system not able to access internet,Pooja Mehta,Network Team
+Unauthorized access attempt,Multiple failed login attempts detected,Karan Malhotra,Security Operations
+Laptop overheating,Laptop heating up and shutting down automatically,Suresh Kumar,End User Computing
+Malware detected,Endpoint security detected malware,Rahul Verma,Security Operations
+Server CPU high,Production server CPU usage above threshold,Suresh Kumar,Infrastructure Team
+Antivirus outdated,Antivirus signatures not updated,Rohit Gupta,Security Operations
+Account locked,User account locked after multiple failed attempts,Pooja Mehta,IT Service Desk
+Password expired,Active Directory password expired and user locked out,Karan Malhotra,IT Service Desk
+Data not loading,Application dashboard data not loading,Karan Malhotra,Application Support
+Blue screen error,System crashes with blue screen error,Rahul Verma,End User Computing
+Memory leak detected,Server memory continuously increasing,Rahul Verma,Infrastructure Team
+Account locked,User account locked after multiple failed attempts,Priya Nair,IT Service Desk
+Disk I/O latency,High disk IO latency observed on VM,Vikram Patel,Infrastructure Team
+Password expired,Active Directory password expired and user locked out,Vikram Patel,IT Service Desk
+Unauthorized access attempt,Multiple failed login attempts detected,Vikram Patel,Security Operations
+Phishing email reported,User reported suspicious phishing email,Anita Rao,Security Operations
+Antivirus outdated,Antivirus signatures not updated,Rahul Verma,Security Operations
+No internet access,User system not able to access internet,Rohit Gupta,Network Team
+Data not loading,Application dashboard data not loading,Vikram Patel,Application Support
+Phishing email reported,User reported suspicious phishing email,Karan Malhotra,Security Operations
+Keyboard not working,Laptop keyboard keys not responding,Pooja Mehta,End User Computing
+Email login failure,User unable to login to Outlook email account,Amit Sharma,IT Service Desk
+Laptop overheating,Laptop heating up and shutting down automatically,Manish Jain,End User Computing
+Email login failure,User unable to login to Outlook email account,Karan Malhotra,IT Service Desk
+Data not loading,Application dashboard data not loading,Pooja Mehta,Application Support
+Data not loading,Application dashboard data not loading,Vikram Patel,Application Support
+Server CPU high,Production server CPU usage above threshold,Sneha Iyer,Infrastructure Team
+MFA not working,Multi-factor authentication failing during login,Anita Rao,IT Service Desk
+Account locked,User account locked after multiple failed attempts,Sneha Iyer,IT Service Desk
+Password expired,Active Directory password expired and user locked out,Priya Nair,IT Service Desk
+Memory leak detected,Server memory continuously increasing,Amit Sharma,Infrastructure Team
+No internet access,User system not able to access internet,Priya Nair,Network Team
+VPN disconnected,VPN drops frequently when connected remotely,Neha Singh,Network Team
+DNS resolution issue,Internal domains not resolving via DNS,Suresh Kumar,Network Team
+Server reboot required,Server requires reboot after patching,Karan Malhotra,Infrastructure Team
+Firewall blocking access,Required port blocked by firewall,Vikram Patel,Network Team
+Server reboot required,Server requires reboot after patching,Priya Nair,Infrastructure Team
+VPN disconnected,VPN drops frequently when connected remotely,Karan Malhotra,Network Team
+Disk I/O latency,High disk IO latency observed on VM,Pooja Mehta,Infrastructure Team
+Email login failure,User unable to login to Outlook email account,Karan Malhotra,IT Service Desk
+Disk space full,System disk is full causing performance issues,Amit Sharma,End User Computing
+VPN disconnected,VPN drops frequently when connected remotely,Suresh Kumar,Network Team
+Antivirus outdated,Antivirus signatures not updated,Rahul Verma,Security Operations
+No internet access,User system not able to access internet,Neha Singh,Network Team
+Server CPU high,Production server CPU usage above threshold,Manish Jain,Infrastructure Team
+Disk space full,System disk is full causing performance issues,Sneha Iyer,End User Computing
+Permission denied,User lacks permission to access module,Anita Rao,Application Support
+Server reboot required,Server requires reboot after patching,Sneha Iyer,Infrastructure Team
+Laptop overheating,Laptop heating up and shutting down automatically,Anita Rao,End User Computing
+Data not loading,Application dashboard data not loading,Rahul Verma,Application Support
+Data not loading,Application dashboard data not loading,Neha Singh,Application Support
+Account locked,User account locked after multiple failed attempts,Rahul Verma,IT Service Desk
+Blue screen error,System crashes with blue screen error,Vikram Patel,End User Computing
+Password expired,Active Directory password expired and user locked out,Anita Rao,IT Service Desk
+Login page error,Application login page throwing error,Karan Malhotra,Application Support
+MFA not working,Multi-factor authentication failing during login,Suresh Kumar,IT Service Desk
+VPN disconnected,VPN drops frequently when connected remotely,Sneha Iyer,Network Team
+Password expired,Active Directory password expired and user locked out,Pooja Mehta,IT Service Desk
+Malware detected,Endpoint security detected malware,Anita Rao,Security Operations
+Antivirus outdated,Antivirus signatures not updated,Karan Malhotra,Security Operations
+Firewall blocking access,Required port blocked by firewall,Rohit Gupta,Network Team
+Application crash,Business application crashes on launch,Suresh Kumar,Application Support
+Malware detected,Endpoint security detected malware,Priya Nair,Security Operations
+Application crash,Business application crashes on launch,Amit Sharma,Application Support
+Laptop overheating,Laptop heating up and shutting down automatically,Suresh Kumar,End User Computing
+Phishing email reported,User reported suspicious phishing email,Sneha Iyer,Security Operations
+MFA not working,Multi-factor authentication failing during login,Anita Rao,IT Service Desk
+VPN disconnected,VPN drops frequently when connected remotely,Suresh Kumar,Network Team
+Blue screen error,System crashes with blue screen error,Anita Rao,End User Computing
+Server CPU high,Production server CPU usage above threshold,Rohit Gupta,Infrastructure Team
+Laptop overheating,Laptop heating up and shutting down automatically,Suresh Kumar,End User Computing
+Memory leak detected,Server memory continuously increasing,Sneha Iyer,Infrastructure Team
+Malware detected,Endpoint security detected malware,Rohit Gupta,Security Operations
+Blue screen error,System crashes with blue screen error,Suresh Kumar,End User Computing
+DNS resolution issue,Internal domains not resolving via DNS,Manish Jain,Network Team
+Disk I/O latency,High disk IO latency observed on VM,Vikram Patel,Infrastructure Team
+Disk I/O latency,High disk IO latency observed on VM,Anita Rao,Infrastructure Team
+Login page error,Application login page throwing error,Amit Sharma,Application Support
+Application crash,Business application crashes on launch,Amit Sharma,Application Support
+Application crash,Business application crashes on launch,Sneha Iyer,Application Support
+DNS resolution issue,Internal domains not resolving via DNS,Karan Malhotra,Network Team
+Login page error,Application login page throwing error,Manish Jain,Application Support
+No internet access,User system not able to access internet,Vikram Patel,Network Team
+Disk space full,System disk is full causing performance issues,Vikram Patel,End User Computing
+Laptop overheating,Laptop heating up and shutting down automatically,Pooja Mehta,End User Computing
+Application crash,Business application crashes on launch,Amit Sharma,Application Support
+Unauthorized access attempt,Multiple failed login attempts detected,Rahul Verma,Security Operations
+Disk space full,System disk is full causing performance issues,Priya Nair,End User Computing
+Laptop overheating,Laptop heating up and shutting down automatically,Pooja Mehta,End User Computing
+Blue screen error,System crashes with blue screen error,Anita Rao,End User Computing
+Account locked,User account locked after multiple failed attempts,Suresh Kumar,IT Service Desk
+Firewall blocking access,Required port blocked by firewall,Amit Sharma,Network Team
+Keyboard not working,Laptop keyboard keys not responding,Anita Rao,End User Computing
+Application crash,Business application crashes on launch,Pooja Mehta,Application Support
+Firewall blocking access,Required port blocked by firewall,Manish Jain,Network Team
+Malware detected,Endpoint security detected malware,Anita Rao,Security Operations
+Blue screen error,System crashes with blue screen error,Anita Rao,End User Computing
+Data not loading,Application dashboard data not loading,Sneha Iyer,Application Support
+Keyboard not working,Laptop keyboard keys not responding,Pooja Mehta,End User Computing
+Permission denied,User lacks permission to access module,Karan Malhotra,Application Support
+Phishing email reported,User reported suspicious phishing email,Rahul Verma,Security Operations
+Password expired,Active Directory password expired and user locked out,Amit Sharma,IT Service Desk
+Keyboard not working,Laptop keyboard keys not responding,Sneha Iyer,End User Computing
+Email login failure,User unable to login to Outlook email account,Neha Singh,IT Service Desk
+Keyboard not working,Laptop keyboard keys not responding,Rohit Gupta,End User Computing
+Application crash,Business application crashes on launch,Karan Malhotra,Application Support
+Antivirus outdated,Antivirus signatures not updated,Vikram Patel,Security Operations
+Antivirus outdated,Antivirus signatures not updated,Rahul Verma,Security Operations
+Application crash,Business application crashes on launch,Neha Singh,Application Support
+Login page error,Application login page throwing error,Sneha Iyer,Application Support
+Laptop overheating,Laptop heating up and shutting down automatically,Vikram Patel,End User Computing
+Email login failure,User unable to login to Outlook email account,Neha Singh,IT Service Desk
+Password expired,Active Directory password expired and user locked out,Vikram Patel,IT Service Desk
+Laptop overheating,Laptop heating up and shutting down automatically,Suresh Kumar,End User Computing
+Email login failure,User unable to login to Outlook email account,Pooja Mehta,IT Service Desk
+Application crash,Business application crashes on launch,Pooja Mehta,Application Support
+Laptop overheating,Laptop heating up and shutting down automatically,Suresh Kumar,End User Computing
+Malware detected,Endpoint security detected malware,Suresh Kumar,Security Operations
+Login page error,Application login page throwing error,Sneha Iyer,Application Support
+Antivirus outdated,Antivirus signatures not updated,Vikram Patel,Security Operations
+Account locked,User account locked after multiple failed attempts,Karan Malhotra,IT Service Desk
+Server reboot required,Server requires reboot after patching,Anita Rao,Infrastructure Team
+Disk space full,System disk is full causing performance issues,Karan Malhotra,End User Computing
+Disk space full,System disk is full causing performance issues,Manish Jain,End User Computing
+Laptop overheating,Laptop heating up and shutting down automatically,Suresh Kumar,End User Computing
+VPN disconnected,VPN drops frequently when connected remotely,Suresh Kumar,Network Team
+MFA not working,Multi-factor authentication failing during login,Neha Singh,IT Service Desk
+Firewall blocking access,Required port blocked by firewall,Rohit Gupta,Network Team
+Data not loading,Application dashboard data not loading,Vikram Patel,Application Support
+Antivirus outdated,Antivirus signatures not updated,Priya Nair,Security Operations
+MFA not working,Multi-factor authentication failing during login,Rohit Gupta,IT Service Desk
+Malware detected,Endpoint security detected malware,Priya Nair,Security Operations
+Login page error,Application login page throwing error,Neha Singh,Application Support
+No internet access,User system not able to access internet,Anita Rao,Network Team
+Unauthorized access attempt,Multiple failed login attempts detected,Sneha Iyer,Security Operations
+Password expired,Active Directory password expired and user locked out,Rahul Verma,IT Service Desk
+DNS resolution issue,Internal domains not resolving via DNS,Neha Singh,Network Team
+Unauthorized access attempt,Multiple failed login attempts detected,Sneha Iyer,Security Operations
+Disk space full,System disk is full causing performance issues,Anita Rao,End User Computing
+Permission denied,User lacks permission to access module,Anita Rao,Application Support
+No internet access,User system not able to access internet,Neha Singh,Network Team
+Firewall blocking access,Required port blocked by firewall,Amit Sharma,Network Team
+Malware detected,Endpoint security detected malware,Rahul Verma,Security Operations
+Firewall blocking access,Required port blocked by firewall,Anita Rao,Network Team
+Memory leak detected,Server memory continuously increasing,Amit Sharma,Infrastructure Team
+Memory leak detected,Server memory continuously increasing,Sneha Iyer,Infrastructure Team
+Permission denied,User lacks permission to access module,Karan Malhotra,Application Support
+Server reboot required,Server requires reboot after patching,Suresh Kumar,Infrastructure Team
+Data not loading,Application dashboard data not loading,Vikram Patel,Application Support
+Login page error,Application login page throwing error,Amit Sharma,Application Support
+Data not loading,Application dashboard data not loading,Priya Nair,Application Support
+Laptop overheating,Laptop heating up and shutting down automatically,Priya Nair,End User Computing
+Firewall blocking access,Required port blocked by firewall,Sneha Iyer,Network Team
+Password expired,Active Directory password expired and user locked out,Manish Jain,IT Service Desk
+Keyboard not working,Laptop keyboard keys not responding,Karan Malhotra,End User Computing
+Laptop overheating,Laptop heating up and shutting down automatically,Sneha Iyer,End User Computing
+Data not loading,Application dashboard data not loading,Neha Singh,Application Support
+Malware detected,Endpoint security detected malware,Rahul Verma,Security Operations
+Phishing email reported,User reported suspicious phishing email,Karan Malhotra,Security Operations
+Malware detected,Endpoint security detected malware,Anita Rao,Security Operations
+Server CPU high,Production server CPU usage above threshold,Rahul Verma,Infrastructure Team
+Disk I/O latency,High disk IO latency observed on VM,Pooja Mehta,Infrastructure Team
+Application crash,Business application crashes on launch,Vikram Patel,Application Support
+Permission denied,User lacks permission to access module,Amit Sharma,Application Support
+No internet access,User system not able to access internet,Rohit Gupta,Network Team
+Antivirus outdated,Antivirus signatures not updated,Priya Nair,Security Operations
+Application crash,Business application crashes on launch,Anita Rao,Application Support
+Application crash,Business application crashes on launch,Sneha Iyer,Application Support
+Server CPU high,Production server CPU usage above threshold,Pooja Mehta,Infrastructure Team
+VPN disconnected,VPN drops frequently when connected remotely,Manish Jain,Network Team
+Server CPU high,Production server CPU usage above threshold,Rohit Gupta,Infrastructure Team
+MFA not working,Multi-factor authentication failing during login,Sneha Iyer,IT Service Desk
+Server reboot required,Server requires reboot after patching,Sneha Iyer,Infrastructure Team
+DNS resolution issue,Internal domains not resolving via DNS,Karan Malhotra,Network Team
+Disk space full,System disk is full causing performance issues,Neha Singh,End User Computing
+Application crash,Business application crashes on launch,Karan Malhotra,Application Support
+No internet access,User system not able to access internet,Manish Jain,Network Team
+Password expired,Active Directory password expired and user locked out,Suresh Kumar,IT Service Desk
+Memory leak detected,Server memory continuously increasing,Rohit Gupta,Infrastructure Team
+Server CPU high,Production server CPU usage above threshold,Amit Sharma,Infrastructure Team
+Server reboot required,Server requires reboot after patching,Manish Jain,Infrastructure Team
+Antivirus outdated,Antivirus signatures not updated,Rohit Gupta,Security Operations
+Data not loading,Application dashboard data not loading,Priya Nair,Application Support
+Memory leak detected,Server memory continuously increasing,Rahul Verma,Infrastructure Team
+Antivirus outdated,Antivirus signatures not updated,Anita Rao,Security Operations
+Application crash,Business application crashes on launch,Neha Singh,Application Support
+Disk I/O latency,High disk IO latency observed on VM,Manish Jain,Infrastructure Team
+Phishing email reported,User reported suspicious phishing email,Pooja Mehta,Security Operations
+Account locked,User account locked after multiple failed attempts,Pooja Mehta,IT Service Desk
+Email login failure,User unable to login to Outlook email account,Rahul Verma,IT Service Desk
+Antivirus outdated,Antivirus signatures not updated,Anita Rao,Security Operations
+Permission denied,User lacks permission to access module,Karan Malhotra,Application Support
+Firewall blocking access,Required port blocked by firewall,Rohit Gupta,Network Team
+Blue screen error,System crashes with blue screen error,Amit Sharma,End User Computing
+Email login failure,User unable to login to Outlook email account,Rohit Gupta,IT Service Desk
+VPN disconnected,VPN drops frequently when connected remotely,Pooja Mehta,Network Team
+Blue screen error,System crashes with blue screen error,Amit Sharma,End User Computing
+Login page error,Application login page throwing error,Rohit Gupta,Application Support
+Malware detected,Endpoint security detected malware,Priya Nair,Security Operations
+Malware detected,Endpoint security detected malware,Sneha Iyer,Security Operations
+VPN disconnected,VPN drops frequently when connected remotely,Rohit Gupta,Network Team
+Malware detected,Endpoint security detected malware,Priya Nair,Security Operations
+Memory leak detected,Server memory continuously increasing,Rohit Gupta,Infrastructure Team
+Firewall blocking access,Required port blocked by firewall,Neha Singh,Network Team
+Disk I/O latency,High disk IO latency observed on VM,Suresh Kumar,Infrastructure Team
+MFA not working,Multi-factor authentication failing during login,Rahul Verma,IT Service Desk
+Account locked,User account locked after multiple failed attempts,Anita Rao,IT Service Desk
+Login page error,Application login page throwing error,Pooja Mehta,Application Support
+Application crash,Business application crashes on launch,Sneha Iyer,Application Support
+DNS resolution issue,Internal domains not resolving via DNS,Karan Malhotra,Network Team
+Malware detected,Endpoint security detected malware,Rohit Gupta,Security Operations
+DNS resolution issue,Internal domains not resolving via DNS,Priya Nair,Network Team
+Phishing email reported,User reported suspicious phishing email,Pooja Mehta,Security Operations
+Server reboot required,Server requires reboot after patching,Rahul Verma,Infrastructure Team
+Unauthorized access attempt,Multiple failed login attempts detected,Manish Jain,Security Operations
+Password expired,Active Directory password expired and user locked out,Vikram Patel,IT Service Desk
+Malware detected,Endpoint security detected malware,Anita Rao,Security Operations
+Firewall blocking access,Required port blocked by firewall,Karan Malhotra,Network Team
+Blue screen error,System crashes with blue screen error,Anita Rao,End User Computing
+Blue screen error,System crashes with blue screen error,Suresh Kumar,End User Computing
+MFA not working,Multi-factor authentication failing during login,Priya Nair,IT Service Desk
+Antivirus outdated,Antivirus signatures not updated,Suresh Kumar,Security Operations
+Account locked,User account locked after multiple failed attempts,Sneha Iyer,IT Service Desk
+Malware detected,Endpoint security detected malware,Anita Rao,Security Operations
+Keyboard not working,Laptop keyboard keys not responding,Amit Sharma,End User Computing
+VPN disconnected,VPN drops frequently when connected remotely,Manish Jain,Network Team
+Server reboot required,Server requires reboot after patching,Rahul Verma,Infrastructure Team
+Antivirus outdated,Antivirus signatures not updated,Amit Sharma,Security Operations
+Firewall blocking access,Required port blocked by firewall,Anita Rao,Network Team
+Malware detected,Endpoint security detected malware,Neha Singh,Security Operations
+Application crash,Business application crashes on launch,Rahul Verma,Application Support
+Firewall blocking access,Required port blocked by firewall,Anita Rao,Network Team
+Login page error,Application login page throwing error,Pooja Mehta,Application Support
+DNS resolution issue,Internal domains not resolving via DNS,Manish Jain,Network Team
+Firewall blocking access,Required port blocked by firewall,Vikram Patel,Network Team
+Application crash,Business application crashes on launch,Rohit Gupta,Application Support
+Data not loading,Application dashboard data not loading,Priya Nair,Application Support
+Phishing email reported,User reported suspicious phishing email,Rahul Verma,Security Operations
+VPN disconnected,VPN drops frequently when connected remotely,Vikram Patel,Network Team
+DNS resolution issue,Internal domains not resolving via DNS,Suresh Kumar,Network Team
+Laptop overheating,Laptop heating up and shutting down automatically,Anita Rao,End User Computing
+No internet access,User system not able to access internet,Rohit Gupta,Network Team
+MFA not working,Multi-factor authentication failing during login,Karan Malhotra,IT Service Desk
+Keyboard not working,Laptop keyboard keys not responding,Amit Sharma,End User Computing
+VPN disconnected,VPN drops frequently when connected remotely,Vikram Patel,Network Team
+Firewall blocking access,Required port blocked by firewall,Vikram Patel,Network Team
+No internet access,User system not able to access internet,Suresh Kumar,Network Team
+Phishing email reported,User reported suspicious phishing email,Suresh Kumar,Security Operations
+No internet access,User system not able to access internet,Sneha Iyer,Network Team
+Account locked,User account locked after multiple failed attempts,Karan Malhotra,IT Service Desk
+Malware detected,Endpoint security detected malware,Rohit Gupta,Security Operations
+Phishing email reported,User reported suspicious phishing email,Rohit Gupta,Security Operations
+No internet access,User system not able to access internet,Vikram Patel,Network Team
+Data not loading,Application dashboard data not loading,Anita Rao,Application Support
+Antivirus outdated,Antivirus signatures not updated,Neha Singh,Security Operations
+Server CPU high,Production server CPU usage above threshold,Neha Singh,Infrastructure Team
+Unauthorized access attempt,Multiple failed login attempts detected,Sneha Iyer,Security Operations
+Disk space full,System disk is full causing performance issues,Priya Nair,End User Computing
+Unauthorized access attempt,Multiple failed login attempts detected,Neha Singh,Security Operations
+Disk I/O latency,High disk IO latency observed on VM,Pooja Mehta,Infrastructure Team
+Memory leak detected,Server memory continuously increasing,Suresh Kumar,Infrastructure Team
+No internet access,User system not able to access internet,Priya Nair,Network Team
+Login page error,Application login page throwing error,Suresh Kumar,Application Support
+MFA not working,Multi-factor authentication failing during login,Vikram Patel,IT Service Desk
+Server CPU high,Production server CPU usage above threshold,Rahul Verma,Infrastructure Team
+Login page error,Application login page throwing error,Suresh Kumar,Application Support
+VPN disconnected,VPN drops frequently when connected remotely,Manish Jain,Network Team
+Malware detected,Endpoint security detected malware,Rohit Gupta,Security Operations
+Login page error,Application login page throwing error,Vikram Patel,Application Support
+Permission denied,User lacks permission to access module,Rohit Gupta,Application Support
+Account locked,User account locked after multiple failed attempts,Manish Jain,IT Service Desk
+Memory leak detected,Server memory continuously increasing,Rahul Verma,Infrastructure Team
+Phishing email reported,User reported suspicious phishing email,Pooja Mehta,Security Operations
+Malware detected,Endpoint security detected malware,Sneha Iyer,Security Operations
+Firewall blocking access,Required port blocked by firewall,Amit Sharma,Network Team
+Firewall blocking access,Required port blocked by firewall,Vikram Patel,Network Team
+Permission denied,User lacks permission to access module,Anita Rao,Application Support
+Application crash,Business application crashes on launch,Amit Sharma,Application Support
+Unauthorized access attempt,Multiple failed login attempts detected,Vikram Patel,Security Operations
+Malware detected,Endpoint security detected malware,Karan Malhotra,Security Operations
+DNS resolution issue,Internal domains not resolving via DNS,Rahul Verma,Network Team
+Memory leak detected,Server memory continuously increasing,Karan Malhotra,Infrastructure Team
+Antivirus outdated,Antivirus signatures not updated,Anita Rao,Security Operations
+Blue screen error,System crashes with blue screen error,Rohit Gupta,End User Computing
+Phishing email reported,User reported suspicious phishing email,Priya Nair,Security Operations
+Keyboard not working,Laptop keyboard keys not responding,Rahul Verma,End User Computing
+Application crash,Business application crashes on launch,Vikram Patel,Application Support
+Login page error,Application login page throwing error,Suresh Kumar,Application Support
+Permission denied,User lacks permission to access module,Sneha Iyer,Application Support
+Malware detected,Endpoint security detected malware,Sneha Iyer,Security Operations
+Phishing email reported,User reported suspicious phishing email,Suresh Kumar,Security Operations
+Memory leak detected,Server memory continuously increasing,Sneha Iyer,Infrastructure Team
+Firewall blocking access,Required port blocked by firewall,Pooja Mehta,Network Team
+Phishing email reported,User reported suspicious phishing email,Manish Jain,Security Operations
+Memory leak detected,Server memory continuously increasing,Karan Malhotra,Infrastructure Team
+Disk space full,System disk is full causing performance issues,Rohit Gupta,End User Computing
+No internet access,User system not able to access internet,Anita Rao,Network Team
+Laptop overheating,Laptop heating up and shutting down automatically,Suresh Kumar,End User Computing
+Malware detected,Endpoint security detected malware,Amit Sharma,Security Operations
+Phishing email reported,User reported suspicious phishing email,Rohit Gupta,Security Operations
+Email login failure,User unable to login to Outlook email account,Neha Singh,IT Service Desk
+Firewall blocking access,Required port blocked by firewall,Karan Malhotra,Network Team
+Login page error,Application login page throwing error,Rahul Verma,Application Support
+Unauthorized access attempt,Multiple failed login attempts detected,Sneha Iyer,Security Operations
+Unauthorized access attempt,Multiple failed login attempts detected,Pooja Mehta,Security Operations
+Blue screen error,System crashes with blue screen error,Vikram Patel,End User Computing
+Password expired,Active Directory password expired and user locked out,Suresh Kumar,IT Service Desk
+Keyboard not working,Laptop keyboard keys not responding,Amit Sharma,End User Computing
+Account locked,User account locked after multiple failed attempts,Sneha Iyer,IT Service Desk
+Data not loading,Application dashboard data not loading,Rahul Verma,Application Support
+Permission denied,User lacks permission to access module,Anita Rao,Application Support
+Data not loading,Application dashboard data not loading,Anita Rao,Application Support
+Blue screen error,System crashes with blue screen error,Pooja Mehta,End User Computing
+Permission denied,User lacks permission to access module,Manish Jain,Application Support
+DNS resolution issue,Internal domains not resolving via DNS,Sneha Iyer,Network Team
+Unauthorized access attempt,Multiple failed login attempts detected,Rohit Gupta,Security Operations
+Server reboot required,Server requires reboot after patching,Karan Malhotra,Infrastructure Team
+Login page error,Application login page throwing error,Rohit Gupta,Application Support
+VPN disconnected,VPN drops frequently when connected remotely,Sneha Iyer,Network Team
+Server reboot required,Server requires reboot after patching,Priya Nair,Infrastructure Team
+Data not loading,Application dashboard data not loading,Rohit Gupta,Application Support
+Memory leak detected,Server memory continuously increasing,Sneha Iyer,Infrastructure Team
+DNS resolution issue,Internal domains not resolving via DNS,Anita Rao,Network Team
+Unauthorized access attempt,Multiple failed login attempts detected,Rohit Gupta,Security Operations
+Server CPU high,Production server CPU usage above threshold,Rahul Verma,Infrastructure Team
+DNS resolution issue,Internal domains not resolving via DNS,Manish Jain,Network Team
+Keyboard not working,Laptop keyboard keys not responding,Vikram Patel,End User Computing
+Disk space full,System disk is full causing performance issues,Sneha Iyer,End User Computing
+Email login failure,User unable to login to Outlook email account,Rohit Gupta,IT Service Desk
+Phishing email reported,User reported suspicious phishing email,Neha Singh,Security Operations
+Laptop overheating,Laptop heating up and shutting down automatically,Vikram Patel,End User Computing
+MFA not working,Multi-factor authentication failing during login,Rohit Gupta,IT Service Desk
+Laptop overheating,Laptop heating up and shutting down automatically,Sneha Iyer,End User Computing
+Phishing email reported,User reported suspicious phishing email,Anita Rao,Security Operations
+Memory leak detected,Server memory continuously increasing,Rahul Verma,Infrastructure Team
+Server CPU high,Production server CPU usage above threshold,Karan Malhotra,Infrastructure Team
+MFA not working,Multi-factor authentication failing during login,Karan Malhotra,IT Service Desk
+Server CPU high,Production server CPU usage above threshold,Vikram Patel,Infrastructure Team
+Memory leak detected,Server memory continuously increasing,Sneha Iyer,Infrastructure Team
+Unauthorized access attempt,Multiple failed login attempts detected,Sneha Iyer,Security Operations
+Server reboot required,Server requires reboot after patching,Suresh Kumar,Infrastructure Team
+Password expired,Active Directory password expired and user locked out,Amit Sharma,IT Service Desk
+Password expired,Active Directory password expired and user locked out,Neha Singh,IT Service Desk
+Firewall blocking access,Required port blocked by firewall,Manish Jain,Network Team
+Account locked,User account locked after multiple failed attempts,Priya Nair,IT Service Desk
+Disk I/O latency,High disk IO latency observed on VM,Rahul Verma,Infrastructure Team
+VPN disconnected,VPN drops frequently when connected remotely,Priya Nair,Network Team
+Laptop overheating,Laptop heating up and shutting down automatically,Suresh Kumar,End User Computing
+Password expired,Active Directory password expired and user locked out,Pooja Mehta,IT Service Desk
+Disk space full,System disk is full causing performance issues,Amit Sharma,End User Computing
+Disk space full,System disk is full causing performance issues,Priya Nair,End User Computing
+Disk I/O latency,High disk IO latency observed on VM,Rahul Verma,Infrastructure Team
+Server reboot required,Server requires reboot after patching,Sneha Iyer,Infrastructure Team
+Laptop overheating,Laptop heating up and shutting down automatically,Suresh Kumar,End User Computing
+Blue screen error,System crashes with blue screen error,Suresh Kumar,End User Computing
+Server reboot required,Server requires reboot after patching,Karan Malhotra,Infrastructure Team
+Keyboard not working,Laptop keyboard keys not responding,Amit Sharma,End User Computing
+Malware detected,Endpoint security detected malware,Priya Nair,Security Operations
+Disk I/O latency,High disk IO latency observed on VM,Suresh Kumar,Infrastructure Team
+Email login failure,User unable to login to Outlook email account,Suresh Kumar,IT Service Desk
+Server reboot required,Server requires reboot after patching,Rohit Gupta,Infrastructure Team
+Data not loading,Application dashboard data not loading,Anita Rao,Application Support
+Account locked,User account locked after multiple failed attempts,Suresh Kumar,IT Service Desk
+Data not loading,Application dashboard data not loading,Suresh Kumar,Application Support
+Permission denied,User lacks permission to access module,Vikram Patel,Application Support
+Password expired,Active Directory password expired and user locked out,Manish Jain,IT Service Desk
+Blue screen error,System crashes with blue screen error,Amit Sharma,End User Computing
+Keyboard not working,Laptop keyboard keys not responding,Vikram Patel,End User Computing
+Server reboot required,Server requires reboot after patching,Anita Rao,Infrastructure Team
+Keyboard not working,Laptop keyboard keys not responding,Pooja Mehta,End User Computing
+Keyboard not working,Laptop keyboard keys not responding,Sneha Iyer,End User Computing
+Blue screen error,System crashes with blue screen error,Manish Jain,End User Computing
+MFA not working,Multi-factor authentication failing during login,Pooja Mehta,IT Service Desk
+No internet access,User system not able to access internet,Sneha Iyer,Network Team
+Application crash,Business application crashes on launch,Anita Rao,Application Support
+DNS resolution issue,Internal domains not resolving via DNS,Vikram Patel,Network Team
+Application crash,Business application crashes on launch,Amit Sharma,Application Support
+Disk space full,System disk is full causing performance issues,Suresh Kumar,End User Computing
+Disk I/O latency,High disk IO latency observed on VM,Vikram Patel,Infrastructure Team
+Malware detected,Endpoint security detected malware,Anita Rao,Security Operations
+Disk I/O latency,High disk IO latency observed on VM,Suresh Kumar,Infrastructure Team
+Memory leak detected,Server memory continuously increasing,Karan Malhotra,Infrastructure Team
+Blue screen error,System crashes with blue screen error,Anita Rao,End User Computing
+Application crash,Business application crashes on launch,Neha Singh,Application Support
+DNS resolution issue,Internal domains not resolving via DNS,Rohit Gupta,Network Team
+Server CPU high,Production server CPU usage above threshold,Manish Jain,Infrastructure Team
+Keyboard not working,Laptop keyboard keys not responding,Sneha Iyer,End User Computing
+VPN disconnected,VPN drops frequently when connected remotely,Priya Nair,Network Team
+Antivirus outdated,Antivirus signatures not updated,Amit Sharma,Security Operations
+Permission denied,User lacks permission to access module,Pooja Mehta,Application Support
+No internet access,User system not able to access internet,Suresh Kumar,Network Team
+MFA not working,Multi-factor authentication failing during login,Rahul Verma,IT Service Desk
+Email login failure,User unable to login to Outlook email account,Amit Sharma,IT Service Desk
+MFA not working,Multi-factor authentication failing during login,Karan Malhotra,IT Service Desk
+Unauthorized access attempt,Multiple failed login attempts detected,Karan Malhotra,Security Operations
+Password expired,Active Directory password expired and user locked out,Rahul Verma,IT Service Desk
+Antivirus outdated,Antivirus signatures not updated,Priya Nair,Security Operations
+Memory leak detected,Server memory continuously increasing,Rohit Gupta,Infrastructure Team
+Server CPU high,Production server CPU usage above threshold,Suresh Kumar,Infrastructure Team
+Data not loading,Application dashboard data not loading,Karan Malhotra,Application Support
+Login page error,Application login page throwing error,Rohit Gupta,Application Support
+Application crash,Business application crashes on launch,Karan Malhotra,Application Support
+Memory leak detected,Server memory continuously increasing,Suresh Kumar,Infrastructure Team
+Disk I/O latency,High disk IO latency observed on VM,Neha Singh,Infrastructure Team
+Account locked,User account locked after multiple failed attempts,Neha Singh,IT Service Desk
+Email login failure,User unable to login to Outlook email account,Priya Nair,IT Service Desk
+No internet access,User system not able to access internet,Priya Nair,Network Team
+DNS resolution issue,Internal domains not resolving via DNS,Vikram Patel,Network Team
+MFA not working,Multi-factor authentication failing during login,Sneha Iyer,IT Service Desk
+DNS resolution issue,Internal domains not resolving via DNS,Sneha Iyer,Network Team
+Disk I/O latency,High disk IO latency observed on VM,Priya Nair,Infrastructure Team
+Disk I/O latency,High disk IO latency observed on VM,Rohit Gupta,Infrastructure Team
+Disk I/O latency,High disk IO latency observed on VM,Neha Singh,Infrastructure Team
+Login page error,Application login page throwing error,Vikram Patel,Application Support
+Server CPU high,Production server CPU usage above threshold,Sneha Iyer,Infrastructure Team
+Blue screen error,System crashes with blue screen error,Amit Sharma,End User Computing
+Unauthorized access attempt,Multiple failed login attempts detected,Neha Singh,Security Operations
+Password expired,Active Directory password expired and user locked out,Rahul Verma,IT Service Desk
+Laptop overheating,Laptop heating up and shutting down automatically,Sneha Iyer,End User Computing
+DNS resolution issue,Internal domains not resolving via DNS,Rohit Gupta,Network Team
+Malware detected,Endpoint security detected malware,Priya Nair,Security Operations
+Password expired,Active Directory password expired and user locked out,Amit Sharma,IT Service Desk
+Permission denied,User lacks permission to access module,Neha Singh,Application Support
+Disk space full,System disk is full causing performance issues,Rohit Gupta,End User Computing
+Malware detected,Endpoint security detected malware,Karan Malhotra,Security Operations
+Memory leak detected,Server memory continuously increasing,Rohit Gupta,Infrastructure Team
+Password expired,Active Directory password expired and user locked out,Rahul Verma,IT Service Desk
+Data not loading,Application dashboard data not loading,Rohit Gupta,Application Support
+Server CPU high,Production server CPU usage above threshold,Karan Malhotra,Infrastructure Team
+Antivirus outdated,Antivirus signatures not updated,Sneha Iyer,Security Operations
+Memory leak detected,Server memory continuously increasing,Neha Singh,Infrastructure Team
+VPN disconnected,VPN drops frequently when connected remotely,Manish Jain,Network Team
+Firewall blocking access,Required port blocked by firewall,Amit Sharma,Network Team
+MFA not working,Multi-factor authentication failing during login,Pooja Mehta,IT Service Desk
+DNS resolution issue,Internal domains not resolving via DNS,Priya Nair,Network Team
+DNS resolution issue,Internal domains not resolving via DNS,Manish Jain,Network Team
+Server CPU high,Production server CPU usage above threshold,Sneha Iyer,Infrastructure Team
+Disk space full,System disk is full causing performance issues,Rohit Gupta,End User Computing
+Keyboard not working,Laptop keyboard keys not responding,Pooja Mehta,End User Computing
+Permission denied,User lacks permission to access module,Suresh Kumar,Application Support
+VPN disconnected,VPN drops frequently when connected remotely,Neha Singh,Network Team
+VPN disconnected,VPN drops frequently when connected remotely,Pooja Mehta,Network Team
+VPN disconnected,VPN drops frequently when connected remotely,Rahul Verma,Network Team
+VPN disconnected,VPN drops frequently when connected remotely,Priya Nair,Network Team
+DNS resolution issue,Internal domains not resolving via DNS,Pooja Mehta,Network Team
+Malware detected,Endpoint security detected malware,Anita Rao,Security Operations
+Disk I/O latency,High disk IO latency observed on VM,Priya Nair,Infrastructure Team
+Login page error,Application login page throwing error,Suresh Kumar,Application Support
+Laptop overheating,Laptop heating up and shutting down automatically,Anita Rao,End User Computing
+Password expired,Active Directory password expired and user locked out,Vikram Patel,IT Service Desk
+Server reboot required,Server requires reboot after patching,Neha Singh,Infrastructure Team
+Permission denied,User lacks permission to access module,Karan Malhotra,Application Support
+Server CPU high,Production server CPU usage above threshold,Pooja Mehta,Infrastructure Team
+Server reboot required,Server requires reboot after patching,Sneha Iyer,Infrastructure Team
+Antivirus outdated,Antivirus signatures not updated,Rohit Gupta,Security Operations
+DNS resolution issue,Internal domains not resolving via DNS,Priya Nair,Network Team
+Blue screen error,System crashes with blue screen error,Amit Sharma,End User Computing
+Permission denied,User lacks permission to access module,Rohit Gupta,Application Support
+VPN disconnected,VPN drops frequently when connected remotely,Sneha Iyer,Network Team
+Memory leak detected,Server memory continuously increasing,Vikram Patel,Infrastructure Team
+MFA not working,Multi-factor authentication failing during login,Priya Nair,IT Service Desk
+Disk I/O latency,High disk IO latency observed on VM,Rahul Verma,Infrastructure Team
+MFA not working,Multi-factor authentication failing during login,Karan Malhotra,IT Service Desk
+Server CPU high,Production server CPU usage above threshold,Neha Singh,Infrastructure Team
+Unauthorized access attempt,Multiple failed login attempts detected,Anita Rao,Security Operations
+Data not loading,Application dashboard data not loading,Anita Rao,Application Support
+Phishing email reported,User reported suspicious phishing email,Suresh Kumar,Security Operations
+Blue screen error,System crashes with blue screen error,Manish Jain,End User Computing
+Application crash,Business application crashes on launch,Priya Nair,Application Support
+Disk space full,System disk is full causing performance issues,Karan Malhotra,End User Computing
+Application crash,Business application crashes on launch,Amit Sharma,Application Support
+Disk space full,System disk is full causing performance issues,Amit Sharma,End User Computing
+Password expired,Active Directory password expired and user locked out,Neha Singh,IT Service Desk
+Malware detected,Endpoint security detected malware,Anita Rao,Security Operations
+Laptop overheating,Laptop heating up and shutting down automatically,Manish Jain,End User Computing
+Keyboard not working,Laptop keyboard keys not responding,Vikram Patel,End User Computing
+Application crash,Business application crashes on launch,Manish Jain,Application Support
+Phishing email reported,User reported suspicious phishing email,Suresh Kumar,Security Operations
+Login page error,Application login page throwing error,Manish Jain,Application Support
+Application crash,Business application crashes on launch,Vikram Patel,Application Support
+Blue screen error,System crashes with blue screen error,Anita Rao,End User Computing
+VPN disconnected,VPN drops frequently when connected remotely,Karan Malhotra,Network Team
+Keyboard not working,Laptop keyboard keys not responding,Anita Rao,End User Computing
+Server CPU high,Production server CPU usage above threshold,Rohit Gupta,Infrastructure Team
+Phishing email reported,User reported suspicious phishing email,Suresh Kumar,Security Operations
+No internet access,User system not able to access internet,Sneha Iyer,Network Team
+Firewall blocking access,Required port blocked by firewall,Sneha Iyer,Network Team
+Email login failure,User unable to login to Outlook email account,Sneha Iyer,IT Service Desk
+Account locked,User account locked after multiple failed attempts,Pooja Mehta,IT Service Desk
+Account locked,User account locked after multiple failed attempts,Amit Sharma,IT Service Desk
+Blue screen error,System crashes with blue screen error,Anita Rao,End User Computing
+Phishing email reported,User reported suspicious phishing email,Amit Sharma,Security Operations
+Permission denied,User lacks permission to access module,Suresh Kumar,Application Support
+MFA not working,Multi-factor authentication failing during login,Priya Nair,IT Service Desk
+DNS resolution issue,Internal domains not resolving via DNS,Rahul Verma,Network Team
+MFA not working,Multi-factor authentication failing during login,Priya Nair,IT Service Desk
+Blue screen error,System crashes with blue screen error,Pooja Mehta,End User Computing
+Disk I/O latency,High disk IO latency observed on VM,Anita Rao,Infrastructure Team
+No internet access,User system not able to access internet,Priya Nair,Network Team
+Blue screen error,System crashes with blue screen error,Vikram Patel,End User Computing
+Permission denied,User lacks permission to access module,Karan Malhotra,Application Support
+Memory leak detected,Server memory continuously increasing,Rahul Verma,Infrastructure Team
+MFA not working,Multi-factor authentication failing during login,Manish Jain,IT Service Desk
+MFA not working,Multi-factor authentication failing during login,Rahul Verma,IT Service Desk
+Firewall blocking access,Required port blocked by firewall,Amit Sharma,Network Team
+Account locked,User account locked after multiple failed attempts,Manish Jain,IT Service Desk
+Keyboard not working,Laptop keyboard keys not responding,Sneha Iyer,End User Computing
+Server reboot required,Server requires reboot after patching,Neha Singh,Infrastructure Team
+VPN disconnected,VPN drops frequently when connected remotely,Rohit Gupta,Network Team
+Data not loading,Application dashboard data not loading,Priya Nair,Application Support
+Email login failure,User unable to login to Outlook email account,Manish Jain,IT Service Desk
+Blue screen error,System crashes with blue screen error,Pooja Mehta,End User Computing
+Permission denied,User lacks permission to access module,Manish Jain,Application Support
+Malware detected,Endpoint security detected malware,Manish Jain,Security Operations
+DNS resolution issue,Internal domains not resolving via DNS,Neha Singh,Network Team
+Memory leak detected,Server memory continuously increasing,Suresh Kumar,Infrastructure Team
+Malware detected,Endpoint security detected malware,Rahul Verma,Security Operations
+Data not loading,Application dashboard data not loading,Sneha Iyer,Application Support
+Permission denied,User lacks permission to access module,Pooja Mehta,Application Support
+Phishing email reported,User reported suspicious phishing email,Priya Nair,Security Operations
+Memory leak detected,Server memory continuously increasing,Anita Rao,Infrastructure Team
+MFA not working,Multi-factor authentication failing during login,Priya Nair,IT Service Desk
+Keyboard not working,Laptop keyboard keys not responding,Suresh Kumar,End User Computing
+Password expired,Active Directory password expired and user locked out,Suresh Kumar,IT Service Desk
+Server CPU high,Production server CPU usage above threshold,Suresh Kumar,Infrastructure Team
+Application crash,Business application crashes on launch,Sneha Iyer,Application Support
+Application crash,Business application crashes on launch,Amit Sharma,Application Support
+MFA not working,Multi-factor authentication failing during login,Sneha Iyer,IT Service Desk
+MFA not working,Multi-factor authentication failing during login,Neha Singh,IT Service Desk
+Blue screen error,System crashes with blue screen error,Neha Singh,End User Computing
+VPN disconnected,VPN drops frequently when connected remotely,Amit Sharma,Network Team
+Email login failure,User unable to login to Outlook email account,Karan Malhotra,IT Service Desk
+Unauthorized access attempt,Multiple failed login attempts detected,Amit Sharma,Security Operations
+Phishing email reported,User reported suspicious phishing email,Suresh Kumar,Security Operations
+Password expired,Active Directory password expired and user locked out,Sneha Iyer,IT Service Desk
+Malware detected,Endpoint security detected malware,Priya Nair,Security Operations
+Malware detected,Endpoint security detected malware,Priya Nair,Security Operations
+No internet access,User system not able to access internet,Suresh Kumar,Network Team
+Unauthorized access attempt,Multiple failed login attempts detected,Anita Rao,Security Operations
+DNS resolution issue,Internal domains not resolving via DNS,Priya Nair,Network Team
+Server reboot required,Server requires reboot after patching,Pooja Mehta,Infrastructure Team
+Firewall blocking access,Required port blocked by firewall,Priya Nair,Network Team
+No internet access,User system not able to access internet,Pooja Mehta,Network Team
+Unauthorized access attempt,Multiple failed login attempts detected,Anita Rao,Security Operations
+VPN disconnected,VPN drops frequently when connected remotely,Karan Malhotra,Network Team
+Firewall blocking access,Required port blocked by firewall,Suresh Kumar,Network Team
+No internet access,User system not able to access internet,Priya Nair,Network Team
+Antivirus outdated,Antivirus signatures not updated,Vikram Patel,Security Operations
+Login page error,Application login page throwing error,Anita Rao,Application Support
+Server reboot required,Server requires reboot after patching,Rahul Verma,Infrastructure Team
+Malware detected,Endpoint security detected malware,Vikram Patel,Security Operations
+MFA not working,Multi-factor authentication failing during login,Neha Singh,IT Service Desk
+Account locked,User account locked after multiple failed attempts,Amit Sharma,IT Service Desk
+Server CPU high,Production server CPU usage above threshold,Anita Rao,Infrastructure Team
+Phishing email reported,User reported suspicious phishing email,Suresh Kumar,Security Operations
+Firewall blocking access,Required port blocked by firewall,Priya Nair,Network Team
+Malware detected,Endpoint security detected malware,Rohit Gupta,Security Operations
+Memory leak detected,Server memory continuously increasing,Amit Sharma,Infrastructure Team
+DNS resolution issue,Internal domains not resolving via DNS,Amit Sharma,Network Team
+Login page error,Application login page throwing error,Manish Jain,Application Support
+MFA not working,Multi-factor authentication failing during login,Neha Singh,IT Service Desk
+Antivirus outdated,Antivirus signatures not updated,Anita Rao,Security Operations
+Server reboot required,Server requires reboot after patching,Rahul Verma,Infrastructure Team
+No internet access,User system not able to access internet,Vikram Patel,Network Team
+Blue screen error,System crashes with blue screen error,Karan Malhotra,End User Computing
+Disk space full,System disk is full causing performance issues,Neha Singh,End User Computing
+Disk I/O latency,High disk IO latency observed on VM,Vikram Patel,Infrastructure Team
+Memory leak detected,Server memory continuously increasing,Priya Nair,Infrastructure Team
+VPN disconnected,VPN drops frequently when connected remotely,Amit Sharma,Network Team
+Blue screen error,System crashes with blue screen error,Suresh Kumar,End User Computing
+Data not loading,Application dashboard data not loading,Manish Jain,Application Support
+Firewall blocking access,Required port blocked by firewall,Suresh Kumar,Network Team
+Antivirus outdated,Antivirus signatures not updated,Sneha Iyer,Security Operations
+Memory leak detected,Server memory continuously increasing,Manish Jain,Infrastructure Team
+Phishing email reported,User reported suspicious phishing email,Rohit Gupta,Security Operations
+Malware detected,Endpoint security detected malware,Suresh Kumar,Security Operations
+Malware detected,Endpoint security detected malware,Amit Sharma,Security Operations
+Firewall blocking access,Required port blocked by firewall,Sneha Iyer,Network Team
+No internet access,User system not able to access internet,Suresh Kumar,Network Team
+Application crash,Business application crashes on launch,Rohit Gupta,Application Support
+Blue screen error,System crashes with blue screen error,Karan Malhotra,End User Computing
+Laptop overheating,Laptop heating up and shutting down automatically,Rahul Verma,End User Computing
+Account locked,User account locked after multiple failed attempts,Pooja Mehta,IT Service Desk
+Malware detected,Endpoint security detected malware,Priya Nair,Security Operations
+Email login failure,User unable to login to Outlook email account,Neha Singh,IT Service Desk
+Password expired,Active Directory password expired and user locked out,Amit Sharma,IT Service Desk
+Login page error,Application login page throwing error,Suresh Kumar,Application Support
+Unauthorized access attempt,Multiple failed login attempts detected,Suresh Kumar,Security Operations
+Memory leak detected,Server memory continuously increasing,Priya Nair,Infrastructure Team
+Laptop overheating,Laptop heating up and shutting down automatically,Suresh Kumar,End User Computing
+Firewall blocking access,Required port blocked by firewall,Priya Nair,Network Team
+Unauthorized access attempt,Multiple failed login attempts detected,Suresh Kumar,Security Operations
+Malware detected,Endpoint security detected malware,Manish Jain,Security Operations
+No internet access,User system not able to access internet,Vikram Patel,Network Team
+MFA not working,Multi-factor authentication failing during login,Amit Sharma,IT Service Desk
+Malware detected,Endpoint security detected malware,Neha Singh,Security Operations
+Account locked,User account locked after multiple failed attempts,Manish Jain,IT Service Desk
+MFA not working,Multi-factor authentication failing during login,Rahul Verma,IT Service Desk
+Keyboard not working,Laptop keyboard keys not responding,Vikram Patel,End User Computing
+DNS resolution issue,Internal domains not resolving via DNS,Priya Nair,Network Team
+Permission denied,User lacks permission to access module,Rohit Gupta,Application Support
+No internet access,User system not able to access internet,Vikram Patel,Network Team
+Memory leak detected,Server memory continuously increasing,Suresh Kumar,Infrastructure Team
+Unauthorized access attempt,Multiple failed login attempts detected,Vikram Patel,Security Operations
+Application crash,Business application crashes on launch,Rahul Verma,Application Support
+Application crash,Business application crashes on launch,Amit Sharma,Application Support
+Laptop overheating,Laptop heating up and shutting down automatically,Amit Sharma,End User Computing
+Application crash,Business application crashes on launch,Rahul Verma,Application Support
+Login page error,Application login page throwing error,Suresh Kumar,Application Support
+Email login failure,User unable to login to Outlook email account,Sneha Iyer,IT Service Desk
+Application crash,Business application crashes on launch,Anita Rao,Application Support
+Account locked,User account locked after multiple failed attempts,Rahul Verma,IT Service Desk
+DNS resolution issue,Internal domains not resolving via DNS,Suresh Kumar,Network Team
+Account locked,User account locked after multiple failed attempts,Vikram Patel,IT Service Desk
+Data not loading,Application dashboard data not loading,Manish Jain,Application Support
+Login page error,Application login page throwing error,Rahul Verma,Application Support
+Data not loading,Application dashboard data not loading,Anita Rao,Application Support
+Laptop overheating,Laptop heating up and shutting down automatically,Rahul Verma,End User Computing
+Data not loading,Application dashboard data not loading,Rahul Verma,Application Support
+Disk I/O latency,High disk IO latency observed on VM,Pooja Mehta,Infrastructure Team
+Permission denied,User lacks permission to access module,Pooja Mehta,Application Support
+Server CPU high,Production server CPU usage above threshold,Anita Rao,Infrastructure Team
+Phishing email reported,User reported suspicious phishing email,Anita Rao,Security Operations
+Antivirus outdated,Antivirus signatures not updated,Manish Jain,Security Operations
+Laptop overheating,Laptop heating up and shutting down automatically,Sneha Iyer,End User Computing
+No internet access,User system not able to access internet,Sneha Iyer,Network Team
+Firewall blocking access,Required port blocked by firewall,Amit Sharma,Network Team
+DNS resolution issue,Internal domains not resolving via DNS,Rahul Verma,Network Team
+Disk I/O latency,High disk IO latency observed on VM,Pooja Mehta,Infrastructure Team
+Permission denied,User lacks permission to access module,Pooja Mehta,Application Support
+Keyboard not working,Laptop keyboard keys not responding,Amit Sharma,End User Computing
+MFA not working,Multi-factor authentication failing during login,Suresh Kumar,IT Service Desk
+Malware detected,Endpoint security detected malware,Neha Singh,Security Operations
+Blue screen error,System crashes with blue screen error,Karan Malhotra,End User Computing
+Application crash,Business application crashes on launch,Rohit Gupta,Application Support
+Login page error,Application login page throwing error,Anita Rao,Application Support
+Unauthorized access attempt,Multiple failed login attempts detected,Amit Sharma,Security Operations
+VPN disconnected,VPN drops frequently when connected remotely,Neha Singh,Network Team
+Server CPU high,Production server CPU usage above threshold,Amit Sharma,Infrastructure Team
+Data not loading,Application dashboard data not loading,Karan Malhotra,Application Support
+Blue screen error,System crashes with blue screen error,Priya Nair,End User Computing
+MFA not working,Multi-factor authentication failing during login,Anita Rao,IT Service Desk
+Blue screen error,System crashes with blue screen error,Amit Sharma,End User Computing
+No internet access,User system not able to access internet,Priya Nair,Network Team
+Disk I/O latency,High disk IO latency observed on VM,Suresh Kumar,Infrastructure Team
+Phishing email reported,User reported suspicious phishing email,Rohit Gupta,Security Operations
+Unauthorized access attempt,Multiple failed login attempts detected,Vikram Patel,Security Operations
+Antivirus outdated,Antivirus signatures not updated,Priya Nair,Security Operations
+Firewall blocking access,Required port blocked by firewall,Anita Rao,Network Team
+MFA not working,Multi-factor authentication failing during login,Rohit Gupta,IT Service Desk
+Server reboot required,Server requires reboot after patching,Anita Rao,Infrastructure Team
+Server CPU high,Production server CPU usage above threshold,Karan Malhotra,Infrastructure Team
+DNS resolution issue,Internal domains not resolving via DNS,Anita Rao,Network Team
+Phishing email reported,User reported suspicious phishing email,Suresh Kumar,Security Operations
+Firewall blocking access,Required port blocked by firewall,Sneha Iyer,Network Team
+Permission denied,User lacks permission to access module,Priya Nair,Application Support
+Server reboot required,Server requires reboot after patching,Anita Rao,Infrastructure Team
+MFA not working,Multi-factor authentication failing during login,Amit Sharma,IT Service Desk
+Login page error,Application login page throwing error,Karan Malhotra,Application Support
+Disk space full,System disk is full causing performance issues,Rohit Gupta,End User Computing
+Password expired,Active Directory password expired and user locked out,Rohit Gupta,IT Service Desk
+Memory leak detected,Server memory continuously increasing,Rahul Verma,Infrastructure Team
+No internet access,User system not able to access internet,Rahul Verma,Network Team
+Account locked,User account locked after multiple failed attempts,Sneha Iyer,IT Service Desk
+Password expired,Active Directory password expired and user locked out,Sneha Iyer,IT Service Desk
+Unauthorized access attempt,Multiple failed login attempts detected,Manish Jain,Security Operations
+Disk space full,System disk is full causing performance issues,Manish Jain,End User Computing
+Permission denied,User lacks permission to access module,Rohit Gupta,Application Support
+Data not loading,Application dashboard data not loading,Vikram Patel,Application Support
+No internet access,User system not able to access internet,Rahul Verma,Network Team
+Laptop overheating,Laptop heating up and shutting down automatically,Anita Rao,End User Computing
+Malware detected,Endpoint security detected malware,Rohit Gupta,Security Operations
+Disk I/O latency,High disk IO latency observed on VM,Suresh Kumar,Infrastructure Team
+Password expired,Active Directory password expired and user locked out,Sneha Iyer,IT Service Desk
+Blue screen error,System crashes with blue screen error,Amit Sharma,End User Computing
+Laptop overheating,Laptop heating up and shutting down automatically,Amit Sharma,End User Computing
+Antivirus outdated,Antivirus signatures not updated,Rohit Gupta,Security Operations
+DNS resolution issue,Internal domains not resolving via DNS,Neha Singh,Network Team
+Disk space full,System disk is full causing performance issues,Manish Jain,End User Computing
+MFA not working,Multi-factor authentication failing during login,Anita Rao,IT Service Desk
+Login page error,Application login page throwing error,Neha Singh,Application Support
+Email login failure,User unable to login to Outlook email account,Priya Nair,IT Service Desk
+Server CPU high,Production server CPU usage above threshold,Sneha Iyer,Infrastructure Team
+Antivirus outdated,Antivirus signatures not updated,Amit Sharma,Security Operations
+Application crash,Business application crashes on launch,Rohit Gupta,Application Support
+No internet access,User system not able to access internet,Suresh Kumar,Network Team
+Account locked,User account locked after multiple failed attempts,Priya Nair,IT Service Desk
+Antivirus outdated,Antivirus signatures not updated,Rohit Gupta,Security Operations
+Account locked,User account locked after multiple failed attempts,Rohit Gupta,IT Service Desk
+Login page error,Application login page throwing error,Neha Singh,Application Support
+Phishing email reported,User reported suspicious phishing email,Neha Singh,Security Operations
+Login page error,Application login page throwing error,Vikram Patel,Application Support
+Permission denied,User lacks permission to access module,Vikram Patel,Application Support
+VPN disconnected,VPN drops frequently when connected remotely,Amit Sharma,Network Team
+MFA not working,Multi-factor authentication failing during login,Anita Rao,IT Service Desk
+Permission denied,User lacks permission to access module,Neha Singh,Application Support
+Server CPU high,Production server CPU usage above threshold,Amit Sharma,Infrastructure Team
+Server reboot required,Server requires reboot after patching,Sneha Iyer,Infrastructure Team
+Malware detected,Endpoint security detected malware,Rohit Gupta,Security Operations
+Blue screen error,System crashes with blue screen error,Suresh Kumar,End User Computing
+MFA not working,Multi-factor authentication failing during login,Manish Jain,IT Service Desk
+Keyboard not working,Laptop keyboard keys not responding,Amit Sharma,End User Computing
+MFA not working,Multi-factor authentication failing during login,Rahul Verma,IT Service Desk
+Email login failure,User unable to login to Outlook email account,Manish Jain,IT Service Desk
+VPN disconnected,VPN drops frequently when connected remotely,Karan Malhotra,Network Team
+Keyboard not working,Laptop keyboard keys not responding,Priya Nair,End User Computing
+Server CPU high,Production server CPU usage above threshold,Priya Nair,Infrastructure Team
+Data not loading,Application dashboard data not loading,Anita Rao,Application Support
+Data not loading,Application dashboard data not loading,Amit Sharma,Application Support
+Malware detected,Endpoint security detected malware,Rohit Gupta,Security Operations
+Blue screen error,System crashes with blue screen error,Pooja Mehta,End User Computing
+Antivirus outdated,Antivirus signatures not updated,Karan Malhotra,Security Operations
+Firewall blocking access,Required port blocked by firewall,Vikram Patel,Network Team
+Data not loading,Application dashboard data not loading,Priya Nair,Application Support
+VPN disconnected,VPN drops frequently when connected remotely,Anita Rao,Network Team
+No internet access,User system not able to access internet,Priya Nair,Network Team
+Blue screen error,System crashes with blue screen error,Manish Jain,End User Computing
+Disk I/O latency,High disk IO latency observed on VM,Manish Jain,Infrastructure Team
+DNS resolution issue,Internal domains not resolving via DNS,Anita Rao,Network Team
+Keyboard not working,Laptop keyboard keys not responding,Amit Sharma,End User Computing
+Phishing email reported,User reported suspicious phishing email,Vikram Patel,Security Operations
+VPN disconnected,VPN drops frequently when connected remotely,Vikram Patel,Network Team
+Phishing email reported,User reported suspicious phishing email,Amit Sharma,Security Operations
+Disk space full,System disk is full causing performance issues,Pooja Mehta,End User Computing
+Disk space full,System disk is full causing performance issues,Priya Nair,End User Computing
+Server reboot required,Server requires reboot after patching,Priya Nair,Infrastructure Team
+Antivirus outdated,Antivirus signatures not updated,Pooja Mehta,Security Operations
+Permission denied,User lacks permission to access module,Anita Rao,Application Support
+Account locked,User account locked after multiple failed attempts,Pooja Mehta,IT Service Desk
+VPN disconnected,VPN drops frequently when connected remotely,Vikram Patel,Network Team
+Application crash,Business application crashes on launch,Anita Rao,Application Support
+DNS resolution issue,Internal domains not resolving via DNS,Neha Singh,Network Team
+Password expired,Active Directory password expired and user locked out,Rahul Verma,IT Service Desk
+Account locked,User account locked after multiple failed attempts,Pooja Mehta,IT Service Desk
+No internet access,User system not able to access internet,Suresh Kumar,Network Team
+Application crash,Business application crashes on launch,Rohit Gupta,Application Support
+Server CPU high,Production server CPU usage above threshold,Sneha Iyer,Infrastructure Team
+Server CPU high,Production server CPU usage above threshold,Rohit Gupta,Infrastructure Team
+Login page error,Application login page throwing error,Karan Malhotra,Application Support
+Malware detected,Endpoint security detected malware,Neha Singh,Security Operations
+Email login failure,User unable to login to Outlook email account,Vikram Patel,IT Service Desk
+Blue screen error,System crashes with blue screen error,Rohit Gupta,End User Computing
+Keyboard not working,Laptop keyboard keys not responding,Neha Singh,End User Computing
+Server CPU high,Production server CPU usage above threshold,Karan Malhotra,Infrastructure Team
+Disk I/O latency,High disk IO latency observed on VM,Anita Rao,Infrastructure Team
+DNS resolution issue,Internal domains not resolving via DNS,Rohit Gupta,Network Team
+MFA not working,Multi-factor authentication failing during login,Suresh Kumar,IT Service Desk
+Antivirus outdated,Antivirus signatures not updated,Rahul Verma,Security Operations
+Antivirus outdated,Antivirus signatures not updated,Pooja Mehta,Security Operations
+Blue screen error,System crashes with blue screen error,Rahul Verma,End User Computing
+Firewall blocking access,Required port blocked by firewall,Amit Sharma,Network Team
+Malware detected,Endpoint security detected malware,Pooja Mehta,Security Operations
+Laptop overheating,Laptop heating up and shutting down automatically,Manish Jain,End User Computing
+Unauthorized access attempt,Multiple failed login attempts detected,Karan Malhotra,Security Operations
+Password expired,Active Directory password expired and user locked out,Pooja Mehta,IT Service Desk
+Server reboot required,Server requires reboot after patching,Vikram Patel,Infrastructure Team
+Account locked,User account locked after multiple failed attempts,Neha Singh,IT Service Desk
+Keyboard not working,Laptop keyboard keys not responding,Karan Malhotra,End User Computing
+Laptop overheating,Laptop heating up and shutting down automatically,Neha Singh,End User Computing
+Keyboard not working,Laptop keyboard keys not responding,Rahul Verma,End User Computing
+Disk I/O latency,High disk IO latency observed on VM,Karan Malhotra,Infrastructure Team
+Permission denied,User lacks permission to access module,Priya Nair,Application Support
+No internet access,User system not able to access internet,Vikram Patel,Network Team
+Server reboot required,Server requires reboot after patching,Pooja Mehta,Infrastructure Team
+Malware detected,Endpoint security detected malware,Vikram Patel,Security Operations
+Account locked,User account locked after multiple failed attempts,Neha Singh,IT Service Desk
+Unauthorized access attempt,Multiple failed login attempts detected,Rohit Gupta,Security Operations
+Laptop overheating,Laptop heating up and shutting down automatically,Vikram Patel,End User Computing
+Email login failure,User unable to login to Outlook email account,Rahul Verma,IT Service Desk
+Disk space full,System disk is full causing performance issues,Sneha Iyer,End User Computing
+Permission denied,User lacks permission to access module,Pooja Mehta,Application Support
+Blue screen error,System crashes with blue screen error,Sneha Iyer,End User Computing
+Keyboard not working,Laptop keyboard keys not responding,Rahul Verma,End User Computing
+Antivirus outdated,Antivirus signatures not updated,Neha Singh,Security Operations
+Permission denied,User lacks permission to access module,Rahul Verma,Application Support
+Memory leak detected,Server memory continuously increasing,Pooja Mehta,Infrastructure Team
+Firewall blocking access,Required port blocked by firewall,Sneha Iyer,Network Team
+Email login failure,User unable to login to Outlook email account,Karan Malhotra,IT Service Desk
+Laptop overheating,Laptop heating up and shutting down automatically,Neha Singh,End User Computing
+Antivirus outdated,Antivirus signatures not updated,Priya Nair,Security Operations
+Unauthorized access attempt,Multiple failed login attempts detected,Priya Nair,Security Operations
+Permission denied,User lacks permission to access module,Sneha Iyer,Application Support
+Email login failure,User unable to login to Outlook email account,Rahul Verma,IT Service Desk
+Email login failure,User unable to login to Outlook email account,Rohit Gupta,IT Service Desk
+Server reboot required,Server requires reboot after patching,Vikram Patel,Infrastructure Team
+Memory leak detected,Server memory continuously increasing,Neha Singh,Infrastructure Team
+Email login failure,User unable to login to Outlook email account,Manish Jain,IT Service Desk
+Antivirus outdated,Antivirus signatures not updated,Vikram Patel,Security Operations
+Disk space full,System disk is full causing performance issues,Vikram Patel,End User Computing
+VPN disconnected,VPN drops frequently when connected remotely,Anita Rao,Network Team
+Permission denied,User lacks permission to access module,Rahul Verma,Application Support
+Antivirus outdated,Antivirus signatures not updated,Karan Malhotra,Security Operations
+MFA not working,Multi-factor authentication failing during login,Manish Jain,IT Service Desk
+Account locked,User account locked after multiple failed attempts,Sneha Iyer,IT Service Desk
+Keyboard not working,Laptop keyboard keys not responding,Pooja Mehta,End User Computing
+Permission denied,User lacks permission to access module,Priya Nair,Application Support
+Keyboard not working,Laptop keyboard keys not responding,Vikram Patel,End User Computing
+MFA not working,Multi-factor authentication failing during login,Anita Rao,IT Service Desk
+Login page error,Application login page throwing error,Suresh Kumar,Application Support
+DNS resolution issue,Internal domains not resolving via DNS,Sneha Iyer,Network Team
+Unauthorized access attempt,Multiple failed login attempts detected,Neha Singh,Security Operations
+MFA not working,Multi-factor authentication failing during login,Amit Sharma,IT Service Desk
+Laptop overheating,Laptop heating up and shutting down automatically,Rohit Gupta,End User Computing
+Keyboard not working,Laptop keyboard keys not responding,Karan Malhotra,End User Computing
+Phishing email reported,User reported suspicious phishing email,Amit Sharma,Security Operations
+Antivirus outdated,Antivirus signatures not updated,Vikram Patel,Security Operations
+Password expired,Active Directory password expired and user locked out,Rahul Verma,IT Service Desk
+Login page error,Application login page throwing error,Karan Malhotra,Application Support
+Password expired,Active Directory password expired and user locked out,Anita Rao,IT Service Desk
+Laptop overheating,Laptop heating up and shutting down automatically,Manish Jain,End User Computing
+Phishing email reported,User reported suspicious phishing email,Vikram Patel,Security Operations
+Antivirus outdated,Antivirus signatures not updated,Sneha Iyer,Security Operations
+Blue screen error,System crashes with blue screen error,Manish Jain,End User Computing
+Phishing email reported,User reported suspicious phishing email,Karan Malhotra,Security Operations
+Password expired,Active Directory password expired and user locked out,Rahul Verma,IT Service Desk
+VPN disconnected,VPN drops frequently when connected remotely,Pooja Mehta,Network Team
+Server CPU high,Production server CPU usage above threshold,Manish Jain,Infrastructure Team
+Unauthorized access attempt,Multiple failed login attempts detected,Karan Malhotra,Security Operations
+Firewall blocking access,Required port blocked by firewall,Rahul Verma,Network Team
+Memory leak detected,Server memory continuously increasing,Pooja Mehta,Infrastructure Team
+Unauthorized access attempt,Multiple failed login attempts detected,Anita Rao,Security Operations
+Firewall blocking access,Required port blocked by firewall,Rahul Verma,Network Team
+No internet access,User system not able to access internet,Anita Rao,Network Team
+Data not loading,Application dashboard data not loading,Rohit Gupta,Application Support
+Password expired,Active Directory password expired and user locked out,Sneha Iyer,IT Service Desk
+Phishing email reported,User reported suspicious phishing email,Sneha Iyer,Security Operations
+Malware detected,Endpoint security detected malware,Sneha Iyer,Security Operations
+Account locked,User account locked after multiple failed attempts,Neha Singh,IT Service Desk
+Account locked,User account locked after multiple failed attempts,Rahul Verma,IT Service Desk
+Unauthorized access attempt,Multiple failed login attempts detected,Manish Jain,Security Operations
+Server reboot required,Server requires reboot after patching,Rohit Gupta,Infrastructure Team
+Unauthorized access attempt,Multiple failed login attempts detected,Anita Rao,Security Operations
+Blue screen error,System crashes with blue screen error,Anita Rao,End User Computing
+Server reboot required,Server requires reboot after patching,Suresh Kumar,Infrastructure Team
+Server CPU high,Production server CPU usage above threshold,Pooja Mehta,Infrastructure Team
+Unauthorized access attempt,Multiple failed login attempts detected,Suresh Kumar,Security Operations
+Memory leak detected,Server memory continuously increasing,Vikram Patel,Infrastructure Team
+Login page error,Application login page throwing error,Priya Nair,Application Support
+Account locked,User account locked after multiple failed attempts,Rohit Gupta,IT Service Desk
+Laptop overheating,Laptop heating up and shutting down automatically,Anita Rao,End User Computing
+MFA not working,Multi-factor authentication failing during login,Rohit Gupta,IT Service Desk
+Password expired,Active Directory password expired and user locked out,Suresh Kumar,IT Service Desk
+Antivirus outdated,Antivirus signatures not updated,Amit Sharma,Security Operations
+Blue screen error,System crashes with blue screen error,Rohit Gupta,End User Computing
+VPN disconnected,VPN drops frequently when connected remotely,Rohit Gupta,Network Team
+DNS resolution issue,Internal domains not resolving via DNS,Neha Singh,Network Team
+Laptop overheating,Laptop heating up and shutting down automatically,Priya Nair,End User Computing
+Laptop overheating,Laptop heating up and shutting down automatically,Sneha Iyer,End User Computing
+Server CPU high,Production server CPU usage above threshold,Amit Sharma,Infrastructure Team
+Memory leak detected,Server memory continuously increasing,Neha Singh,Infrastructure Team
+Password expired,Active Directory password expired and user locked out,Rahul Verma,IT Service Desk
+Malware detected,Endpoint security detected malware,Rohit Gupta,Security Operations
+Disk I/O latency,High disk IO latency observed on VM,Sneha Iyer,Infrastructure Team
+Memory leak detected,Server memory continuously increasing,Vikram Patel,Infrastructure Team
+Server CPU high,Production server CPU usage above threshold,Vikram Patel,Infrastructure Team
+Blue screen error,System crashes with blue screen error,Priya Nair,End User Computing
+Data not loading,Application dashboard data not loading,Rohit Gupta,Application Support
+Keyboard not working,Laptop keyboard keys not responding,Rahul Verma,End User Computing
+Data not loading,Application dashboard data not loading,Pooja Mehta,Application Support
+Phishing email reported,User reported suspicious phishing email,Vikram Patel,Security Operations
+Server CPU high,Production server CPU usage above threshold,Vikram Patel,Infrastructure Team
+MFA not working,Multi-factor authentication failing during login,Anita Rao,IT Service Desk
+Data not loading,Application dashboard data not loading,Suresh Kumar,Application Support
+Antivirus outdated,Antivirus signatures not updated,Rahul Verma,Security Operations
+Laptop overheating,Laptop heating up and shutting down automatically,Pooja Mehta,End User Computing
+No internet access,User system not able to access internet,Pooja Mehta,Network Team
+Server reboot required,Server requires reboot after patching,Manish Jain,Infrastructure Team
+Memory leak detected,Server memory continuously increasing,Sneha Iyer,Infrastructure Team
+MFA not working,Multi-factor authentication failing during login,Anita Rao,IT Service Desk
+Blue screen error,System crashes with blue screen error,Manish Jain,End User Computing
+Account locked,User account locked after multiple failed attempts,Suresh Kumar,IT Service Desk
+Unauthorized access attempt,Multiple failed login attempts detected,Amit Sharma,Security Operations
+Keyboard not working,Laptop keyboard keys not responding,Anita Rao,End User Computing
+Server reboot required,Server requires reboot after patching,Vikram Patel,Infrastructure Team
+Data not loading,Application dashboard data not loading,Karan Malhotra,Application Support
+Phishing email reported,User reported suspicious phishing email,Vikram Patel,Security Operations
+Application crash,Business application crashes on launch,Vikram Patel,Application Support
+VPN disconnected,VPN drops frequently when connected remotely,Suresh Kumar,Network Team
+Permission denied,User lacks permission to access module,Neha Singh,Application Support
+Blue screen error,System crashes with blue screen error,Rahul Verma,End User Computing
+DNS resolution issue,Internal domains not resolving via DNS,Rohit Gupta,Network Team
+Malware detected,Endpoint security detected malware,Sneha Iyer,Security Operations
+Blue screen error,System crashes with blue screen error,Anita Rao,End User Computing
+Phishing email reported,User reported suspicious phishing email,Vikram Patel,Security Operations
+Disk I/O latency,High disk IO latency observed on VM,Rohit Gupta,Infrastructure Team
+Account locked,User account locked after multiple failed attempts,Amit Sharma,IT Service Desk
+Firewall blocking access,Required port blocked by firewall,Amit Sharma,Network Team
+Phishing email reported,User reported suspicious phishing email,Vikram Patel,Security Operations
+Password expired,Active Directory password expired and user locked out,Vikram Patel,IT Service Desk
+MFA not working,Multi-factor authentication failing during login,Sneha Iyer,IT Service Desk
+Memory leak detected,Server memory continuously increasing,Amit Sharma,Infrastructure Team
+Login page error,Application login page throwing error,Suresh Kumar,Application Support
+Unauthorized access attempt,Multiple failed login attempts detected,Amit Sharma,Security Operations
+MFA not working,Multi-factor authentication failing during login,Anita Rao,IT Service Desk
+Laptop overheating,Laptop heating up and shutting down automatically,Suresh Kumar,End User Computing
+DNS resolution issue,Internal domains not resolving via DNS,Suresh Kumar,Network Team
+Permission denied,User lacks permission to access module,Sneha Iyer,Application Support
+DNS resolution issue,Internal domains not resolving via DNS,Suresh Kumar,Network Team
+Server reboot required,Server requires reboot after patching,Rohit Gupta,Infrastructure Team
+Keyboard not working,Laptop keyboard keys not responding,Suresh Kumar,End User Computing
+Login page error,Application login page throwing error,Priya Nair,Application Support
+Disk I/O latency,High disk IO latency observed on VM,Manish Jain,Infrastructure Team
+Unauthorized access attempt,Multiple failed login attempts detected,Rahul Verma,Security Operations
+Firewall blocking access,Required port blocked by firewall,Priya Nair,Network Team
+Disk space full,System disk is full causing performance issues,Priya Nair,End User Computing
+Laptop overheating,Laptop heating up and shutting down automatically,Suresh Kumar,End User Computing
+Server reboot required,Server requires reboot after patching,Priya Nair,Infrastructure Team
+Memory leak detected,Server memory continuously increasing,Amit Sharma,Infrastructure Team
+Firewall blocking access,Required port blocked by firewall,Neha Singh,Network Team
+VPN disconnected,VPN drops frequently when connected remotely,Rahul Verma,Network Team
+Antivirus outdated,Antivirus signatures not updated,Pooja Mehta,Security Operations
+Firewall blocking access,Required port blocked by firewall,Sneha Iyer,Network Team
+No internet access,User system not able to access internet,Priya Nair,Network Team
+No internet access,User system not able to access internet,Rahul Verma,Network Team
+Malware detected,Endpoint security detected malware,Priya Nair,Security Operations
+Server CPU high,Production server CPU usage above threshold,Manish Jain,Infrastructure Team
+Email login failure,User unable to login to Outlook email account,Rohit Gupta,IT Service Desk
+Unauthorized access attempt,Multiple failed login attempts detected,Priya Nair,Security Operations
+Permission denied,User lacks permission to access module,Vikram Patel,Application Support
+DNS resolution issue,Internal domains not resolving via DNS,Karan Malhotra,Network Team
+Laptop overheating,Laptop heating up and shutting down automatically,Anita Rao,End User Computing
+Unauthorized access attempt,Multiple failed login attempts detected,Vikram Patel,Security Operations
+Firewall blocking access,Required port blocked by firewall,Vikram Patel,Network Team
+Application crash,Business application crashes on launch,Pooja Mehta,Application Support
+Laptop overheating,Laptop heating up and shutting down automatically,Vikram Patel,End User Computing
+Memory leak detected,Server memory continuously increasing,Rahul Verma,Infrastructure Team
+Phishing email reported,User reported suspicious phishing email,Sneha Iyer,Security Operations
+Phishing email reported,User reported suspicious phishing email,Rahul Verma,Security Operations
+Disk I/O latency,High disk IO latency observed on VM,Pooja Mehta,Infrastructure Team
+Phishing email reported,User reported suspicious phishing email,Rahul Verma,Security Operations
+Phishing email reported,User reported suspicious phishing email,Rahul Verma,Security Operations
+Password expired,Active Directory password expired and user locked out,Manish Jain,IT Service Desk
+Firewall blocking access,Required port blocked by firewall,Amit Sharma,Network Team
+Disk space full,System disk is full causing performance issues,Sneha Iyer,End User Computing
+Unauthorized access attempt,Multiple failed login attempts detected,Vikram Patel,Security Operations
+Memory leak detected,Server memory continuously increasing,Rahul Verma,Infrastructure Team
+Phishing email reported,User reported suspicious phishing email,Pooja Mehta,Security Operations
+Antivirus outdated,Antivirus signatures not updated,Anita Rao,Security Operations
+Disk I/O latency,High disk IO latency observed on VM,Priya Nair,Infrastructure Team
+Keyboard not working,Laptop keyboard keys not responding,Karan Malhotra,End User Computing
+Password expired,Active Directory password expired and user locked out,Sneha Iyer,IT Service Desk
+Memory leak detected,Server memory continuously increasing,Karan Malhotra,Infrastructure Team
+Antivirus outdated,Antivirus signatures not updated,Priya Nair,Security Operations
+Disk space full,System disk is full causing performance issues,Vikram Patel,End User Computing
+Account locked,User account locked after multiple failed attempts,Vikram Patel,IT Service Desk
+VPN disconnected,VPN drops frequently when connected remotely,Amit Sharma,Network Team
+Permission denied,User lacks permission to access module,Priya Nair,Application Support
+Disk space full,System disk is full causing performance issues,Neha Singh,End User Computing
+Account locked,User account locked after multiple failed attempts,Anita Rao,IT Service Desk
+Phishing email reported,User reported suspicious phishing email,Neha Singh,Security Operations
+MFA not working,Multi-factor authentication failing during login,Rahul Verma,IT Service Desk
+Keyboard not working,Laptop keyboard keys not responding,Neha Singh,End User Computing
+No internet access,User system not able to access internet,Sneha Iyer,Network Team
+Memory leak detected,Server memory continuously increasing,Pooja Mehta,Infrastructure Team
+Email login failure,User unable to login to Outlook email account,Sneha Iyer,IT Service Desk
+Malware detected,Endpoint security detected malware,Karan Malhotra,Security Operations
+Laptop overheating,Laptop heating up and shutting down automatically,Pooja Mehta,End User Computing
+Laptop overheating,Laptop heating up and shutting down automatically,Rahul Verma,End User Computing
+Login page error,Application login page throwing error,Pooja Mehta,Application Support
+Laptop overheating,Laptop heating up and shutting down automatically,Rohit Gupta,End User Computing
+Permission denied,User lacks permission to access module,Karan Malhotra,Application Support
+Server CPU high,Production server CPU usage above threshold,Sneha Iyer,Infrastructure Team
+No internet access,User system not able to access internet,Amit Sharma,Network Team
+Password expired,Active Directory password expired and user locked out,Anita Rao,IT Service Desk
+Blue screen error,System crashes with blue screen error,Priya Nair,End User Computing
+Firewall blocking access,Required port blocked by firewall,Anita Rao,Network Team
+Memory leak detected,Server memory continuously increasing,Karan Malhotra,Infrastructure Team
+VPN disconnected,VPN drops frequently when connected remotely,Rohit Gupta,Network Team
+Account locked,User account locked after multiple failed attempts,Amit Sharma,IT Service Desk
+Data not loading,Application dashboard data not loading,Suresh Kumar,Application Support
+Firewall blocking access,Required port blocked by firewall,Rahul Verma,Network Team
+No internet access,User system not able to access internet,Amit Sharma,Network Team
+Disk space full,System disk is full causing performance issues,Anita Rao,End User Computing
+Malware detected,Endpoint security detected malware,Pooja Mehta,Security Operations
+Account locked,User account locked after multiple failed attempts,Pooja Mehta,IT Service Desk
+Laptop overheating,Laptop heating up and shutting down automatically,Pooja Mehta,End User Computing
+DNS resolution issue,Internal domains not resolving via DNS,Pooja Mehta,Network Team
+Malware detected,Endpoint security detected malware,Rohit Gupta,Security Operations
+Firewall blocking access,Required port blocked by firewall,Vikram Patel,Network Team
+MFA not working,Multi-factor authentication failing during login,Sneha Iyer,IT Service Desk
+Unauthorized access attempt,Multiple failed login attempts detected,Pooja Mehta,Security Operations
+Firewall blocking access,Required port blocked by firewall,Pooja Mehta,Network Team
+Disk I/O latency,High disk IO latency observed on VM,Amit Sharma,Infrastructure Team
+Server reboot required,Server requires reboot after patching,Priya Nair,Infrastructure Team
+Phishing email reported,User reported suspicious phishing email,Karan Malhotra,Security Operations
+Password expired,Active Directory password expired and user locked out,Vikram Patel,IT Service Desk
+Keyboard not working,Laptop keyboard keys not responding,Karan Malhotra,End User Computing
+Laptop overheating,Laptop heating up and shutting down automatically,Priya Nair,End User Computing
+Unauthorized access attempt,Multiple failed login attempts detected,Rahul Verma,Security Operations
+Email login failure,User unable to login to Outlook email account,Amit Sharma,IT Service Desk
+Password expired,Active Directory password expired and user locked out,Pooja Mehta,IT Service Desk
+Login page error,Application login page throwing error,Neha Singh,Application Support
+Permission denied,User lacks permission to access module,Rahul Verma,Application Support
+Laptop overheating,Laptop heating up and shutting down automatically,Pooja Mehta,End User Computing
+Disk I/O latency,High disk IO latency observed on VM,Amit Sharma,Infrastructure Team
+Permission denied,User lacks permission to access module,Anita Rao,Application Support
+Permission denied,User lacks permission to access module,Sneha Iyer,Application Support
+Login page error,Application login page throwing error,Pooja Mehta,Application Support
+Unauthorized access attempt,Multiple failed login attempts detected,Neha Singh,Security Operations
+Permission denied,User lacks permission to access module,Pooja Mehta,Application Support
+No internet access,User system not able to access internet,Rohit Gupta,Network Team
+Laptop overheating,Laptop heating up and shutting down automatically,Vikram Patel,End User Computing
+Phishing email reported,User reported suspicious phishing email,Rohit Gupta,Security Operations
+Disk I/O latency,High disk IO latency observed on VM,Rahul Verma,Infrastructure Team
+Blue screen error,System crashes with blue screen error,Anita Rao,End User Computing
+Malware detected,Endpoint security detected malware,Vikram Patel,Security Operations
+Server CPU high,Production server CPU usage above threshold,Manish Jain,Infrastructure Team
+Permission denied,User lacks permission to access module,Amit Sharma,Application Support
+Data not loading,Application dashboard data not loading,Neha Singh,Application Support
+MFA not working,Multi-factor authentication failing during login,Pooja Mehta,IT Service Desk
+Server reboot required,Server requires reboot after patching,Sneha Iyer,Infrastructure Team
+DNS resolution issue,Internal domains not resolving via DNS,Suresh Kumar,Network Team
+Server reboot required,Server requires reboot after patching,Pooja Mehta,Infrastructure Team
+Memory leak detected,Server memory continuously increasing,Neha Singh,Infrastructure Team
+Disk I/O latency,High disk IO latency observed on VM,Manish Jain,Infrastructure Team
+Email login failure,User unable to login to Outlook email account,Sneha Iyer,IT Service Desk
+Memory leak detected,Server memory continuously increasing,Priya Nair,Infrastructure Team
+Disk I/O latency,High disk IO latency observed on VM,Neha Singh,Infrastructure Team
+Unauthorized access attempt,Multiple failed login attempts detected,Amit Sharma,Security Operations
+Server reboot required,Server requires reboot after patching,Anita Rao,Infrastructure Team
+Unauthorized access attempt,Multiple failed login attempts detected,Vikram Patel,Security Operations
+Keyboard not working,Laptop keyboard keys not responding,Vikram Patel,End User Computing
+Server reboot required,Server requires reboot after patching,Vikram Patel,Infrastructure Team
+Email login failure,User unable to login to Outlook email account,Rahul Verma,IT Service Desk
+Password expired,Active Directory password expired and user locked out,Anita Rao,IT Service Desk
+Disk I/O latency,High disk IO latency observed on VM,Vikram Patel,Infrastructure Team
+Server reboot required,Server requires reboot after patching,Manish Jain,Infrastructure Team
+Application crash,Business application crashes on launch,Sneha Iyer,Application Support
+Account locked,User account locked after multiple failed attempts,Sneha Iyer,IT Service Desk
+Malware detected,Endpoint security detected malware,Manish Jain,Security Operations
+Antivirus outdated,Antivirus signatures not updated,Neha Singh,Security Operations
+Antivirus outdated,Antivirus signatures not updated,Karan Malhotra,Security Operations
+Email login failure,User unable to login to Outlook email account,Rahul Verma,IT Service Desk
+Email login failure,User unable to login to Outlook email account,Manish Jain,IT Service Desk
+No internet access,User system not able to access internet,Vikram Patel,Network Team
+Phishing email reported,User reported suspicious phishing email,Manish Jain,Security Operations
+Server CPU high,Production server CPU usage above threshold,Rohit Gupta,Infrastructure Team
+Keyboard not working,Laptop keyboard keys not responding,Neha Singh,End User Computing
+Blue screen error,System crashes with blue screen error,Rohit Gupta,End User Computing
+Keyboard not working,Laptop keyboard keys not responding,Sneha Iyer,End User Computing
+Email login failure,User unable to login to Outlook email account,Sneha Iyer,IT Service Desk
+Firewall blocking access,Required port blocked by firewall,Anita Rao,Network Team
+Server CPU high,Production server CPU usage above threshold,Anita Rao,Infrastructure Team
+Email login failure,User unable to login to Outlook email account,Anita Rao,IT Service Desk
+Blue screen error,System crashes with blue screen error,Amit Sharma,End User Computing
+Malware detected,Endpoint security detected malware,Vikram Patel,Security Operations
+No internet access,User system not able to access internet,Rahul Verma,Network Team
+Server reboot required,Server requires reboot after patching,Neha Singh,Infrastructure Team
+Blue screen error,System crashes with blue screen error,Anita Rao,End User Computing
+Laptop overheating,Laptop heating up and shutting down automatically,Karan Malhotra,End User Computing
+VPN disconnected,VPN drops frequently when connected remotely,Rahul Verma,Network Team
+Application crash,Business application crashes on launch,Sneha Iyer,Application Support
+Permission denied,User lacks permission to access module,Vikram Patel,Application Support
+Disk space full,System disk is full causing performance issues,Priya Nair,End User Computing
+Server CPU high,Production server CPU usage above threshold,Amit Sharma,Infrastructure Team
+Laptop overheating,Laptop heating up and shutting down automatically,Neha Singh,End User Computing
+Laptop overheating,Laptop heating up and shutting down automatically,Suresh Kumar,End User Computing
+Password expired,Active Directory password expired and user locked out,Manish Jain,IT Service Desk
+Disk I/O latency,High disk IO latency observed on VM,Amit Sharma,Infrastructure Team
+Account locked,User account locked after multiple failed attempts,Rohit Gupta,IT Service Desk
+Application crash,Business application crashes on launch,Amit Sharma,Application Support
+Permission denied,User lacks permission to access module,Karan Malhotra,Application Support
+Firewall blocking access,Required port blocked by firewall,Anita Rao,Network Team
+Antivirus outdated,Antivirus signatures not updated,Anita Rao,Security Operations
+No internet access,User system not able to access internet,Rahul Verma,Network Team
+Malware detected,Endpoint security detected malware,Amit Sharma,Security Operations
+Blue screen error,System crashes with blue screen error,Vikram Patel,End User Computing
+MFA not working,Multi-factor authentication failing during login,Sneha Iyer,IT Service Desk
+Unauthorized access attempt,Multiple failed login attempts detected,Rohit Gupta,Security Operations
+Malware detected,Endpoint security detected malware,Rahul Verma,Security Operations
+Data not loading,Application dashboard data not loading,Rohit Gupta,Application Support
+Disk space full,System disk is full causing performance issues,Neha Singh,End User Computing
+No internet access,User system not able to access internet,Neha Singh,Network Team
+Memory leak detected,Server memory continuously increasing,Rahul Verma,Infrastructure Team
+Server reboot required,Server requires reboot after patching,Neha Singh,Infrastructure Team
+Phishing email reported,User reported suspicious phishing email,Suresh Kumar,Security Operations
+Disk space full,System disk is full causing performance issues,Suresh Kumar,End User Computing
+Unauthorized access attempt,Multiple failed login attempts detected,Vikram Patel,Security Operations
+Application crash,Business application crashes on launch,Neha Singh,Application Support
+Laptop overheating,Laptop heating up and shutting down automatically,Anita Rao,End User Computing
+Antivirus outdated,Antivirus signatures not updated,Vikram Patel,Security Operations
+Unauthorized access attempt,Multiple failed login attempts detected,Rohit Gupta,Security Operations
+Account locked,User account locked after multiple failed attempts,Neha Singh,IT Service Desk
+Application crash,Business application crashes on launch,Priya Nair,Application Support
+DNS resolution issue,Internal domains not resolving via DNS,Suresh Kumar,Network Team
+Data not loading,Application dashboard data not loading,Pooja Mehta,Application Support
+Unauthorized access attempt,Multiple failed login attempts detected,Sneha Iyer,Security Operations
+Firewall blocking access,Required port blocked by firewall,Amit Sharma,Network Team
+MFA not working,Multi-factor authentication failing during login,Sneha Iyer,IT Service Desk
+Disk space full,System disk is full causing performance issues,Manish Jain,End User Computing
+Keyboard not working,Laptop keyboard keys not responding,Sneha Iyer,End User Computing
+DNS resolution issue,Internal domains not resolving via DNS,Priya Nair,Network Team
+Blue screen error,System crashes with blue screen error,Amit Sharma,End User Computing
+DNS resolution issue,Internal domains not resolving via DNS,Rahul Verma,Network Team
+Memory leak detected,Server memory continuously increasing,Karan Malhotra,Infrastructure Team
+Login page error,Application login page throwing error,Pooja Mehta,Application Support
+Malware detected,Endpoint security detected malware,Vikram Patel,Security Operations
+Unauthorized access attempt,Multiple failed login attempts detected,Pooja Mehta,Security Operations
+Unauthorized access attempt,Multiple failed login attempts detected,Vikram Patel,Security Operations
+Server CPU high,Production server CPU usage above threshold,Vikram Patel,Infrastructure Team
+Disk I/O latency,High disk IO latency observed on VM,Neha Singh,Infrastructure Team
+Application crash,Business application crashes on launch,Manish Jain,Application Support
+Password expired,Active Directory password expired and user locked out,Priya Nair,IT Service Desk
+Data not loading,Application dashboard data not loading,Amit Sharma,Application Support
+Data not loading,Application dashboard data not loading,Amit Sharma,Application Support
+Keyboard not working,Laptop keyboard keys not responding,Manish Jain,End User Computing
+Data not loading,Application dashboard data not loading,Pooja Mehta,Application Support
+MFA not working,Multi-factor authentication failing during login,Priya Nair,IT Service Desk
+MFA not working,Multi-factor authentication failing during login,Suresh Kumar,IT Service Desk
+Permission denied,User lacks permission to access module,Vikram Patel,Application Support
+Disk I/O latency,High disk IO latency observed on VM,Suresh Kumar,Infrastructure Team
+Malware detected,Endpoint security detected malware,Rahul Verma,Security Operations
+Unauthorized access attempt,Multiple failed login attempts detected,Pooja Mehta,Security Operations
+Phishing email reported,User reported suspicious phishing email,Anita Rao,Security Operations
+DNS resolution issue,Internal domains not resolving via DNS,Sneha Iyer,Network Team
+Account locked,User account locked after multiple failed attempts,Anita Rao,IT Service Desk
+Email login failure,User unable to login to Outlook email account,Karan Malhotra,IT Service Desk
+Application crash,Business application crashes on launch,Karan Malhotra,Application Support
+VPN disconnected,VPN drops frequently when connected remotely,Sneha Iyer,Network Team
+MFA not working,Multi-factor authentication failing during login,Rahul Verma,IT Service Desk
+No internet access,User system not able to access internet,Suresh Kumar,Network Team
+Keyboard not working,Laptop keyboard keys not responding,Priya Nair,End User Computing
+Permission denied,User lacks permission to access module,Rahul Verma,Application Support
+Application crash,Business application crashes on launch,Vikram Patel,Application Support
+Unauthorized access attempt,Multiple failed login attempts detected,Rahul Verma,Security Operations
+Server CPU high,Production server CPU usage above threshold,Suresh Kumar,Infrastructure Team
+VPN disconnected,VPN drops frequently when connected remotely,Rahul Verma,Network Team
+Application crash,Business application crashes on launch,Anita Rao,Application Support
+Data not loading,Application dashboard data not loading,Pooja Mehta,Application Support
+Disk I/O latency,High disk IO latency observed on VM,Vikram Patel,Infrastructure Team
+VPN disconnected,VPN drops frequently when connected remotely,Suresh Kumar,Network Team
+Phishing email reported,User reported suspicious phishing email,Priya Nair,Security Operations
+Malware detected,Endpoint security detected malware,Suresh Kumar,Security Operations
+No internet access,User system not able to access internet,Manish Jain,Network Team
+Firewall blocking access,Required port blocked by firewall,Pooja Mehta,Network Team
+MFA not working,Multi-factor authentication failing during login,Neha Singh,IT Service Desk
+No internet access,User system not able to access internet,Manish Jain,Network Team
+Memory leak detected,Server memory continuously increasing,Karan Malhotra,Infrastructure Team
+VPN disconnected,VPN drops frequently when connected remotely,Sneha Iyer,Network Team
+No internet access,User system not able to access internet,Anita Rao,Network Team
+Phishing email reported,User reported suspicious phishing email,Neha Singh,Security Operations
+VPN disconnected,VPN drops frequently when connected remotely,Anita Rao,Network Team
+Keyboard not working,Laptop keyboard keys not responding,Anita Rao,End User Computing
+Phishing email reported,User reported suspicious phishing email,Priya Nair,Security Operations
+Application crash,Business application crashes on launch,Karan Malhotra,Application Support
+Server CPU high,Production server CPU usage above threshold,Suresh Kumar,Infrastructure Team
+VPN disconnected,VPN drops frequently when connected remotely,Suresh Kumar,Network Team
+Application crash,Business application crashes on launch,Neha Singh,Application Support
+Malware detected,Endpoint security detected malware,Suresh Kumar,Security Operations
+Firewall blocking access,Required port blocked by firewall,Karan Malhotra,Network Team
+VPN disconnected,VPN drops frequently when connected remotely,Rahul Verma,Network Team
+Firewall blocking access,Required port blocked by firewall,Rohit Gupta,Network Team
+Password expired,Active Directory password expired and user locked out,Rohit Gupta,IT Service Desk
+Phishing email reported,User reported suspicious phishing email,Karan Malhotra,Security Operations
+Server CPU high,Production server CPU usage above threshold,Pooja Mehta,Infrastructure Team
+No internet access,User system not able to access internet,Karan Malhotra,Network Team
+Laptop overheating,Laptop heating up and shutting down automatically,Neha Singh,End User Computing
+Permission denied,User lacks permission to access module,Vikram Patel,Application Support
+Application crash,Business application crashes on launch,Rahul Verma,Application Support
+Password expired,Active Directory password expired and user locked out,Neha Singh,IT Service Desk
+Antivirus outdated,Antivirus signatures not updated,Suresh Kumar,Security Operations
+Disk space full,System disk is full causing performance issues,Amit Sharma,End User Computing
+Malware detected,Endpoint security detected malware,Amit Sharma,Security Operations
+Phishing email reported,User reported suspicious phishing email,Manish Jain,Security Operations
+Account locked,User account locked after multiple failed attempts,Rahul Verma,IT Service Desk
+Application crash,Business application crashes on launch,Pooja Mehta,Application Support
+Application crash,Business application crashes on launch,Vikram Patel,Application Support
+MFA not working,Multi-factor authentication failing during login,Sneha Iyer,IT Service Desk
+Disk space full,System disk is full causing performance issues,Rahul Verma,End User Computing
+Blue screen error,System crashes with blue screen error,Rohit Gupta,End User Computing
+Data not loading,Application dashboard data not loading,Manish Jain,Application Support
+Data not loading,Application dashboard data not loading,Neha Singh,Application Support
+Unauthorized access attempt,Multiple failed login attempts detected,Manish Jain,Security Operations
+Data not loading,Application dashboard data not loading,Vikram Patel,Application Support
+DNS resolution issue,Internal domains not resolving via DNS,Neha Singh,Network Team
+Account locked,User account locked after multiple failed attempts,Rahul Verma,IT Service Desk
+Permission denied,User lacks permission to access module,Rohit Gupta,Application Support
+Keyboard not working,Laptop keyboard keys not responding,Rahul Verma,End User Computing
+Laptop overheating,Laptop heating up and shutting down automatically,Rahul Verma,End User Computing
+MFA not working,Multi-factor authentication failing during login,Suresh Kumar,IT Service Desk
+Permission denied,User lacks permission to access module,Amit Sharma,Application Support
+Login page error,Application login page throwing error,Sneha Iyer,Application Support
+Data not loading,Application dashboard data not loading,Sneha Iyer,Application Support
+MFA not working,Multi-factor authentication failing during login,Sneha Iyer,IT Service Desk
+Firewall blocking access,Required port blocked by firewall,Priya Nair,Network Team
+Keyboard not working,Laptop keyboard keys not responding,Anita Rao,End User Computing
+Password expired,Active Directory password expired and user locked out,Vikram Patel,IT Service Desk
+Antivirus outdated,Antivirus signatures not updated,Suresh Kumar,Security Operations
+No internet access,User system not able to access internet,Karan Malhotra,Network Team
+Laptop overheating,Laptop heating up and shutting down automatically,Rohit Gupta,End User Computing
+Keyboard not working,Laptop keyboard keys not responding,Neha Singh,End User Computing
+Server reboot required,Server requires reboot after patching,Priya Nair,Infrastructure Team
+Malware detected,Endpoint security detected malware,Anita Rao,Security Operations
+Blue screen error,System crashes with blue screen error,Vikram Patel,End User Computing
+Application crash,Business application crashes on launch,Anita Rao,Application Support
+Blue screen error,System crashes with blue screen error,Neha Singh,End User Computing
+Antivirus outdated,Antivirus signatures not updated,Karan Malhotra,Security Operations
+Keyboard not working,Laptop keyboard keys not responding,Pooja Mehta,End User Computing
+MFA not working,Multi-factor authentication failing during login,Suresh Kumar,IT Service Desk
+Account locked,User account locked after multiple failed attempts,Anita Rao,IT Service Desk
+Antivirus outdated,Antivirus signatures not updated,Priya Nair,Security Operations
+Data not loading,Application dashboard data not loading,Anita Rao,Application Support
+Phishing email reported,User reported suspicious phishing email,Sneha Iyer,Security Operations
+Server CPU high,Production server CPU usage above threshold,Priya Nair,Infrastructure Team
+Password expired,Active Directory password expired and user locked out,Suresh Kumar,IT Service Desk
+Login page error,Application login page throwing error,Sneha Iyer,Application Support
+Application crash,Business application crashes on launch,Rohit Gupta,Application Support
+Antivirus outdated,Antivirus signatures not updated,Sneha Iyer,Security Operations
+DNS resolution issue,Internal domains not resolving via DNS,Neha Singh,Network Team
+Laptop overheating,Laptop heating up and shutting down automatically,Priya Nair,End User Computing
+Keyboard not working,Laptop keyboard keys not responding,Vikram Patel,End User Computing
+Application crash,Business application crashes on launch,Karan Malhotra,Application Support
+Disk I/O latency,High disk IO latency observed on VM,Pooja Mehta,Infrastructure Team
+Application crash,Business application crashes on launch,Rohit Gupta,Application Support
+No internet access,User system not able to access internet,Manish Jain,Network Team
+No internet access,User system not able to access internet,Anita Rao,Network Team
+Server CPU high,Production server CPU usage above threshold,Rohit Gupta,Infrastructure Team
+Laptop overheating,Laptop heating up and shutting down automatically,Vikram Patel,End User Computing
+MFA not working,Multi-factor authentication failing during login,Neha Singh,IT Service Desk
+Account locked,User account locked after multiple failed attempts,Suresh Kumar,IT Service Desk
+Permission denied,User lacks permission to access module,Karan Malhotra,Application Support
+Unauthorized access attempt,Multiple failed login attempts detected,Suresh Kumar,Security Operations
+Data not loading,Application dashboard data not loading,Anita Rao,Application Support
+Login page error,Application login page throwing error,Neha Singh,Application Support
+Phishing email reported,User reported suspicious phishing email,Pooja Mehta,Security Operations
+Firewall blocking access,Required port blocked by firewall,Neha Singh,Network Team
+Memory leak detected,Server memory continuously increasing,Pooja Mehta,Infrastructure Team
+Email login failure,User unable to login to Outlook email account,Anita Rao,IT Service Desk
+Application crash,Business application crashes on launch,Pooja Mehta,Application Support
+Password expired,Active Directory password expired and user locked out,Karan Malhotra,IT Service Desk
+Unauthorized access attempt,Multiple failed login attempts detected,Manish Jain,Security Operations
+Server CPU high,Production server CPU usage above threshold,Rahul Verma,Infrastructure Team
+Account locked,User account locked after multiple failed attempts,Suresh Kumar,IT Service Desk
+No internet access,User system not able to access internet,Rohit Gupta,Network Team
+Antivirus outdated,Antivirus signatures not updated,Priya Nair,Security Operations
+Phishing email reported,User reported suspicious phishing email,Vikram Patel,Security Operations
+Server reboot required,Server requires reboot after patching,Manish Jain,Infrastructure Team
+Account locked,User account locked after multiple failed attempts,Vikram Patel,IT Service Desk
+DNS resolution issue,Internal domains not resolving via DNS,Anita Rao,Network Team
+VPN disconnected,VPN drops frequently when connected remotely,Karan Malhotra,Network Team
+Disk I/O latency,High disk IO latency observed on VM,Manish Jain,Infrastructure Team
+No internet access,User system not able to access internet,Sneha Iyer,Network Team
+Server CPU high,Production server CPU usage above threshold,Rohit Gupta,Infrastructure Team
+Permission denied,User lacks permission to access module,Vikram Patel,Application Support
+Memory leak detected,Server memory continuously increasing,Pooja Mehta,Infrastructure Team
+Blue screen error,System crashes with blue screen error,Karan Malhotra,End User Computing
+DNS resolution issue,Internal domains not resolving via DNS,Priya Nair,Network Team
+Account locked,User account locked after multiple failed attempts,Rohit Gupta,IT Service Desk
+Permission denied,User lacks permission to access module,Rahul Verma,Application Support
+Disk space full,System disk is full causing performance issues,Priya Nair,End User Computing
+Laptop overheating,Laptop heating up and shutting down automatically,Sneha Iyer,End User Computing
+Disk space full,System disk is full causing performance issues,Sneha Iyer,End User Computing
+Server CPU high,Production server CPU usage above threshold,Rohit Gupta,Infrastructure Team
+Password expired,Active Directory password expired and user locked out,Neha Singh,IT Service Desk
+Unauthorized access attempt,Multiple failed login attempts detected,Rahul Verma,Security Operations
+Disk space full,System disk is full causing performance issues,Rahul Verma,End User Computing
+Email login failure,User unable to login to Outlook email account,Karan Malhotra,IT Service Desk
+Laptop overheating,Laptop heating up and shutting down automatically,Priya Nair,End User Computing
+VPN disconnected,VPN drops frequently when connected remotely,Suresh Kumar,Network Team
+Permission denied,User lacks permission to access module,Anita Rao,Application Support
+Permission denied,User lacks permission to access module,Sneha Iyer,Application Support
+Password expired,Active Directory password expired and user locked out,Priya Nair,IT Service Desk
+Data not loading,Application dashboard data not loading,Pooja Mehta,Application Support
+Server CPU high,Production server CPU usage above threshold,Priya Nair,Infrastructure Team
+Blue screen error,System crashes with blue screen error,Priya Nair,End User Computing
+Password expired,Active Directory password expired and user locked out,Anita Rao,IT Service Desk
+Server reboot required,Server requires reboot after patching,Pooja Mehta,Infrastructure Team
+Disk I/O latency,High disk IO latency observed on VM,Sneha Iyer,Infrastructure Team
+Password expired,Active Directory password expired and user locked out,Karan Malhotra,IT Service Desk
+Login page error,Application login page throwing error,Neha Singh,Application Support
+Server CPU high,Production server CPU usage above threshold,Priya Nair,Infrastructure Team
+Data not loading,Application dashboard data not loading,Amit Sharma,Application Support
+VPN disconnected,VPN drops frequently when connected remotely,Vikram Patel,Network Team
+Blue screen error,System crashes with blue screen error,Vikram Patel,End User Computing
+Unauthorized access attempt,Multiple failed login attempts detected,Rahul Verma,Security Operations
+Server CPU high,Production server CPU usage above threshold,Priya Nair,Infrastructure Team
+DNS resolution issue,Internal domains not resolving via DNS,Rahul Verma,Network Team
+Server reboot required,Server requires reboot after patching,Karan Malhotra,Infrastructure Team
+Unauthorized access attempt,Multiple failed login attempts detected,Karan Malhotra,Security Operations
